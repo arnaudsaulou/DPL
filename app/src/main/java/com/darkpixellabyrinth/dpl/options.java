@@ -1,8 +1,7 @@
-package com.the_desk.c00kie.dpl_darkpixellabyrinth;
+package com.darkpixellabyrinth.dpl;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
 public class options extends AppCompatActivity {
 
     @Override

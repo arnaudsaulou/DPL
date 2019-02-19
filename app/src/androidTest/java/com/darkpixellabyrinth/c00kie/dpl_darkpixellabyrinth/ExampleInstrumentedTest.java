@@ -1,4 +1,4 @@
-package com.the_desk.c00kie.dpl_darkpixellabyrinth;
+package com.darkpixellabyrinth.c00kie.dpl_darkpixellabyrinth;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

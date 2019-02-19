@@ -1,4 +1,4 @@
-package com.the_desk.c00kie.dpl_darkpixellabyrinth;
+package com.darkpixellabyrinth.dpl;
 
 import android.content.Intent;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.the_desk.c00kie.dpl_darkpixellabyrinth;
+package com.darkpixellabyrinth.dpl;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
