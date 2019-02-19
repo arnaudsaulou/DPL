@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DPL - DarkPixelLabyrinth</string>
+    <string name="title">DPL</string>
+    <string name="solo">SOLO</string>
+    <string name="multi">MULTI</string>
+    <string name="options">OPTIONS</string>
+    <string name="heartDescription">Logo coeur</string>
+</resources>
