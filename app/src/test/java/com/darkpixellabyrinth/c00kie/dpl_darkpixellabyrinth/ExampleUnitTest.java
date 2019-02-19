@@ -1,4 +1,4 @@
-package com.darkpixellabyrinth.c00kie.dpl_darkpixellabyrinth;
+package com.darkpixellabyrinth.dpl;
 
 import org.junit.Test;
 

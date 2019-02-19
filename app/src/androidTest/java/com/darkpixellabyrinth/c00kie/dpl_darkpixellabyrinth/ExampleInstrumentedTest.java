@@ -1,4 +1,4 @@
-package com.darkpixellabyrinth.c00kie.dpl_darkpixellabyrinth;
+package com.darkpixellabyrinth.dpl;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.the_desk.c00kie.dpl_darkpixellabyrinth", appContext.getPackageName());
+        assertEquals("com.the_desk.dpl_darkpixellabyrinth", appContext.getPackageName());
     }
 }
