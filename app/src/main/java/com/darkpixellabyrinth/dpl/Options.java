@@ -2,7 +2,7 @@ package com.darkpixellabyrinth.dpl;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-public class options extends AppCompatActivity {
+public class Options extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

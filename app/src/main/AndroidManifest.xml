@@ -9,12 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar.FullScreen">
-        <activity android:name=".options"></activity>
+        <activity android:name=".Options"></activity>
         <activity
-            android:name=".soloMode"
+            android:name=".SoloMode"
             android:screenOrientation="portrait" />
         <activity
-            android:name=".startMenu"
+            android:name=".StartMenu"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

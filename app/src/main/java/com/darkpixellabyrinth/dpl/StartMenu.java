@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 
-public class startMenu extends AppCompatActivity {
+public class StartMenu extends AppCompatActivity {
 
     Button options, multi, solo;
 
@@ -38,7 +38,7 @@ public class startMenu extends AppCompatActivity {
         solo.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(startMenu.this, soloMode.class);
+                Intent intent = new Intent(StartMenu.this, SoloMode.class);
                 startActivity(intent);
             }
         });
