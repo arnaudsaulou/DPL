@@ -2,26 +2,37 @@ package com.darkpixellabyrinth.dpl;
 
 import java.util.ArrayList;
 
-class Level {
+public class Level {
 
-    private ArrayList<Position> path;
+    private ArrayList<PathBranch> pathBranches;
+    private PathBranch startPathBranch;
 
-    public Level(ArrayList<Position> path) {
-        this.path = path;
+    public Level() {}
+
+    public Level(ArrayList<PathBranch> pathBranches) {
+        this.pathBranches = pathBranches;
     }
 
-    public ArrayList<Position> getPath() {
-        return path;
+    public ArrayList<PathBranch> getPathBranches() {
+        return pathBranches;
     }
 
-    public void setPath(ArrayList<Position> path) {
-        this.path = path;
+    public void setPathBranches(ArrayList<PathBranch> pathBranches) {
+        this.pathBranches = pathBranches;
+    }
+
+    public PathBranch getStartPathBranch() {
+        return startPathBranch;
+    }
+
+    public void setStartPathBranch(PathBranch startPathBranch) {
+        this.startPathBranch = startPathBranch;
     }
 
     @Override
     public String toString() {
         return "Level{" +
-                "path=" + path +
+                "pathBranches=" + pathBranches +
                 '}';
     }
 }
