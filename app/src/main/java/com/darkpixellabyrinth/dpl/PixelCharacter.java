@@ -19,6 +19,10 @@ class PixelCharacter extends View {
     private Paint paint;
     private Rect character;
 
+    public PixelCharacter(Context context){
+        super(context);
+    }
+
     public PixelCharacter(Context context, ScreenPosition screenPosition) {
         super(context);
         this.screenPosition = screenPosition;
