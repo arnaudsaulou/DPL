@@ -1,0 +1,4 @@
+#Mon Mar 04 13:57:05 GMT+01:00 2019
+base.0=C\:\\Users\\Arnaud\\Documents\\Cours\\2A\\Android\\DPL\\DPL - DarkPixelLabyrinth\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

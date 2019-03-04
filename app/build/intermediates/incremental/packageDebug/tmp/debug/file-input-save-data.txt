@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Wed Feb 20 02:27:14 GMT+01:00 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Arnaud\\Documents\\Cours\\2A\\Android\\DPL\\DPL - DarkPixelLabyrinth\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1
