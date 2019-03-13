@@ -3,39 +3,18 @@ package com.darkpixellabyrinth.dpl;
 import com.darkpixellabyrinth.dpl.Positions.Position;
 import com.darkpixellabyrinth.dpl.Positions.ScreenPosition;
 
+import java.util.ArrayList;
+
 public class Intersection {
 
-    private Direction intersectionDirection;
-    private PathBranch pathBranch;
     private ScreenPosition intersectionScreenPosition;
     private Position intersectionPosition;
-    private PathBranch parentBranch;
+    private ArrayList<Intersection> listIntersection;
 
-    public Intersection(Direction intersectionDirection, PathBranch pathBranch, Position intersectionPosition, PathBranch parentBranch) {
-        this.intersectionDirection = intersectionDirection;
-        this.pathBranch = pathBranch;
-        this.intersectionScreenPosition = new ScreenPosition(intersectionPosition.getX(), intersectionPosition.getY());
-        this.pathBranch.setDirection(intersectionDirection);
-        this.pathBranch.setStartScreenPosition(this.intersectionScreenPosition);
-        this.pathBranch.setPosition(intersectionPosition);
+    public Intersection(ScreenPosition intersectionScreenPosition, Position intersectionPosition, ArrayList<Intersection> listIntersection) {
+        this.intersectionScreenPosition = intersectionScreenPosition;
         this.intersectionPosition = intersectionPosition;
-        this.parentBranch = parentBranch;
-    }
-
-    public Direction getIntersectionDirection() {
-        return intersectionDirection;
-    }
-
-    public void setIntersectionDirection(Direction intersectionDirection) {
-        this.intersectionDirection = intersectionDirection;
-    }
-
-    public PathBranch getPathBranch() {
-        return pathBranch;
-    }
-
-    public void setPathBranch(PathBranch pathBranch) {
-        this.pathBranch = pathBranch;
+        this.listIntersection = listIntersection;
     }
 
     public ScreenPosition getIntersectionScreenPosition() {
@@ -54,16 +33,11 @@ public class Intersection {
         this.intersectionPosition = intersectionPosition;
     }
 
-    public PathBranch getParentBranch() {
-        return parentBranch;
+    public ArrayList<Intersection> getListIntersection() {
+        return listIntersection;
     }
 
-    public void setParentBranch(PathBranch parentBranch) {
-        this.parentBranch = parentBranch;
-    }
-
-    @Override
-    public String toString() {
-        return "Intersection{" + this.intersectionPosition + '}';
+    public void setListIntersection(ArrayList<Intersection> listIntersection) {
+        this.listIntersection = listIntersection;
     }
 }

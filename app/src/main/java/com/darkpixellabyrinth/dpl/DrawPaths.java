@@ -32,10 +32,6 @@ class DrawPaths extends View {
 
         for (PathBranch pathBranch : this.level.getPathBranches()) {
 
-            if (pathBranch.getIntersectionList().size() > 0) {
-                recursivePathDrawing(pathBranch);
-            }
-
             switch (pathBranch.getDirection()) {
                 case LEFT:
                     createPathLeft(pathBranch.getLenght(), pathBranch.getStartScreenPosition());
@@ -51,35 +47,6 @@ class DrawPaths extends View {
                     break;
                 default:
                     break;
-            }
-        }
-
-    }
-
-
-    private void recursivePathDrawing(PathBranch pathBranch) {
-
-        for (Intersection intersection : pathBranch.getIntersectionList()) {
-
-            switch (intersection.getIntersectionDirection()) {
-                case LEFT:
-                    createPathLeft(intersection.getPathBranch().getLenght(), intersection.getIntersectionScreenPosition());
-                    break;
-                case UP:
-                    createPathUp(intersection.getPathBranch().getLenght(), intersection.getIntersectionScreenPosition());
-                    break;
-                case RIGHT:
-                    createPathRight(intersection.getPathBranch().getLenght(), intersection.getIntersectionScreenPosition());
-                    break;
-                case DOWN:
-                    createPathDown(intersection.getPathBranch().getLenght(), intersection.getIntersectionScreenPosition());
-                    break;
-                default:
-                    break;
-            }
-
-            if (intersection.getPathBranch().getIntersectionList().size() > 0) {
-                recursivePathDrawing(intersection.getPathBranch());
             }
         }
 
