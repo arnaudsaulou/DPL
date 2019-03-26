@@ -21,7 +21,7 @@ public class SoloMode extends AppCompatActivity {
 
         getViews();
 
-        gameBoard = new GameBoard(this, new Level1());
+        gameBoard = new GameBoard(this, new Level1(getApplicationContext()));
 
         gameBoardView.addView(gameBoard);
 

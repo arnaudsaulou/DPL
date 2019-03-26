@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 27
     defaultConfig {
-        applicationId "com.the_desk.dpl_darkpixellabyrinth"
+        applicationId "com.dpl.dpl_darkpixellabyrinth"
         minSdkVersion 19
         targetSdkVersion 27
         versionCode 1

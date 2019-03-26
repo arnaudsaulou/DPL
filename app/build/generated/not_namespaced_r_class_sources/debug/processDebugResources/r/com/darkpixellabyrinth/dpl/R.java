@@ -3601,35 +3601,35 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.the_desk.dpl_darkpixellabyrinth:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.the_desk.dpl_darkpixellabyrinth:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.the_desk.dpl_darkpixellabyrinth:backgroundStacked}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.the_desk.dpl_darkpixellabyrinth:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.the_desk.dpl_darkpixellabyrinth:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.the_desk.dpl_darkpixellabyrinth:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.the_desk.dpl_darkpixellabyrinth:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.the_desk.dpl_darkpixellabyrinth:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.the_desk.dpl_darkpixellabyrinth:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.the_desk.dpl_darkpixellabyrinth:customNavigationLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.the_desk.dpl_darkpixellabyrinth:displayOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.the_desk.dpl_darkpixellabyrinth:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.the_desk.dpl_darkpixellabyrinth:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.the_desk.dpl_darkpixellabyrinth:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.the_desk.dpl_darkpixellabyrinth:hideOnContentScroll}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.the_desk.dpl_darkpixellabyrinth:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.the_desk.dpl_darkpixellabyrinth:homeLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.the_desk.dpl_darkpixellabyrinth:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.the_desk.dpl_darkpixellabyrinth:indeterminateProgressStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.the_desk.dpl_darkpixellabyrinth:itemPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.the_desk.dpl_darkpixellabyrinth:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.the_desk.dpl_darkpixellabyrinth:navigationMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.the_desk.dpl_darkpixellabyrinth:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.the_desk.dpl_darkpixellabyrinth:progressBarPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.the_desk.dpl_darkpixellabyrinth:progressBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.the_desk.dpl_darkpixellabyrinth:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.the_desk.dpl_darkpixellabyrinth:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.the_desk.dpl_darkpixellabyrinth:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.the_desk.dpl_darkpixellabyrinth:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_background com.dpl.dpl_darkpixellabyrinth:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.dpl.dpl_darkpixellabyrinth:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.dpl.dpl_darkpixellabyrinth:backgroundStacked}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.dpl.dpl_darkpixellabyrinth:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.dpl.dpl_darkpixellabyrinth:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.dpl.dpl_darkpixellabyrinth:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.dpl.dpl_darkpixellabyrinth:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.dpl.dpl_darkpixellabyrinth:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.dpl.dpl_darkpixellabyrinth:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.dpl.dpl_darkpixellabyrinth:customNavigationLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.dpl.dpl_darkpixellabyrinth:displayOptions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.dpl.dpl_darkpixellabyrinth:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.dpl.dpl_darkpixellabyrinth:elevation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.dpl.dpl_darkpixellabyrinth:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.dpl.dpl_darkpixellabyrinth:hideOnContentScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.dpl.dpl_darkpixellabyrinth:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.dpl.dpl_darkpixellabyrinth:homeLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.dpl.dpl_darkpixellabyrinth:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.dpl.dpl_darkpixellabyrinth:indeterminateProgressStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.dpl.dpl_darkpixellabyrinth:itemPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_logo com.dpl.dpl_darkpixellabyrinth:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.dpl.dpl_darkpixellabyrinth:navigationMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.dpl.dpl_darkpixellabyrinth:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.dpl.dpl_darkpixellabyrinth:progressBarPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.dpl.dpl_darkpixellabyrinth:progressBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.dpl.dpl_darkpixellabyrinth:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.dpl.dpl_darkpixellabyrinth:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.dpl.dpl_darkpixellabyrinth:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.dpl.dpl_darkpixellabyrinth:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -3672,7 +3672,7 @@ public final class R {
       0x7f020137
     };
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#background}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3680,11 +3680,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:background
+     * @attr name com.dpl.dpl_darkpixellabyrinth:background
      */
     public static final int ActionBar_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3695,11 +3695,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:backgroundSplit
+     * @attr name com.dpl.dpl_darkpixellabyrinth:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#backgroundStacked}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#backgroundStacked}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3710,11 +3710,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:backgroundStacked
+     * @attr name com.dpl.dpl_darkpixellabyrinth:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3723,11 +3723,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:contentInsetEnd
+     * @attr name com.dpl.dpl_darkpixellabyrinth:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3736,11 +3736,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:contentInsetEndWithActions
+     * @attr name com.dpl.dpl_darkpixellabyrinth:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3749,11 +3749,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:contentInsetLeft
+     * @attr name com.dpl.dpl_darkpixellabyrinth:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3762,11 +3762,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:contentInsetRight
+     * @attr name com.dpl.dpl_darkpixellabyrinth:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3775,11 +3775,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:contentInsetStart
+     * @attr name com.dpl.dpl_darkpixellabyrinth:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3788,11 +3788,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:contentInsetStartWithNavigation
+     * @attr name com.dpl.dpl_darkpixellabyrinth:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#customNavigationLayout}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#customNavigationLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3800,11 +3800,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:customNavigationLayout
+     * @attr name com.dpl.dpl_darkpixellabyrinth:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#displayOptions}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#displayOptions}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -3822,11 +3822,11 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:displayOptions
+     * @attr name com.dpl.dpl_darkpixellabyrinth:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#divider}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3834,11 +3834,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:divider
+     * @attr name com.dpl.dpl_darkpixellabyrinth:divider
      */
     public static final int ActionBar_divider=11;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#elevation}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#elevation}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3847,11 +3847,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:elevation
+     * @attr name com.dpl.dpl_darkpixellabyrinth:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#height}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3860,21 +3860,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:height
+     * @attr name com.dpl.dpl_darkpixellabyrinth:height
      */
     public static final int ActionBar_height=13;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#hideOnContentScroll}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#hideOnContentScroll}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:hideOnContentScroll
+     * @attr name com.dpl.dpl_darkpixellabyrinth:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3882,11 +3882,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:homeAsUpIndicator
+     * @attr name com.dpl.dpl_darkpixellabyrinth:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#homeLayout}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#homeLayout}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3894,11 +3894,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:homeLayout
+     * @attr name com.dpl.dpl_darkpixellabyrinth:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#icon}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3906,11 +3906,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:icon
+     * @attr name com.dpl.dpl_darkpixellabyrinth:icon
      */
     public static final int ActionBar_icon=17;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#indeterminateProgressStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#indeterminateProgressStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3918,11 +3918,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:indeterminateProgressStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#itemPadding}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#itemPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3931,11 +3931,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:itemPadding
+     * @attr name com.dpl.dpl_darkpixellabyrinth:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#logo}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3943,11 +3943,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:logo
+     * @attr name com.dpl.dpl_darkpixellabyrinth:logo
      */
     public static final int ActionBar_logo=20;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#navigationMode}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#navigationMode}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -3961,11 +3961,11 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:navigationMode
+     * @attr name com.dpl.dpl_darkpixellabyrinth:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#popupTheme}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3973,11 +3973,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:popupTheme
+     * @attr name com.dpl.dpl_darkpixellabyrinth:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#progressBarPadding}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#progressBarPadding}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -3986,11 +3986,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:progressBarPadding
+     * @attr name com.dpl.dpl_darkpixellabyrinth:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#progressBarStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#progressBarStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -3998,21 +3998,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:progressBarStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#subtitle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:subtitle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4020,21 +4020,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:subtitleTextStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#title}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:title
+     * @attr name com.dpl.dpl_darkpixellabyrinth:title
      */
     public static final int ActionBar_title=27;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4042,7 +4042,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:titleTextStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -4124,12 +4124,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.the_desk.dpl_darkpixellabyrinth:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.the_desk.dpl_darkpixellabyrinth:backgroundSplit}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.the_desk.dpl_darkpixellabyrinth:closeItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.the_desk.dpl_darkpixellabyrinth:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.the_desk.dpl_darkpixellabyrinth:subtitleTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.the_desk.dpl_darkpixellabyrinth:titleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.dpl.dpl_darkpixellabyrinth:background}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.dpl.dpl_darkpixellabyrinth:backgroundSplit}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.dpl.dpl_darkpixellabyrinth:closeItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.dpl.dpl_darkpixellabyrinth:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.dpl.dpl_darkpixellabyrinth:subtitleTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.dpl.dpl_darkpixellabyrinth:titleTextStyle}</code></td><td></td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -4143,7 +4143,7 @@ public final class R {
       0x7f020113, 0x7f020137
     };
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#background}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#background}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4151,11 +4151,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:background
+     * @attr name com.dpl.dpl_darkpixellabyrinth:background
      */
     public static final int ActionMode_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#backgroundSplit}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#backgroundSplit}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4166,11 +4166,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:backgroundSplit
+     * @attr name com.dpl.dpl_darkpixellabyrinth:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#closeItemLayout}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#closeItemLayout}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4178,11 +4178,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:closeItemLayout
+     * @attr name com.dpl.dpl_darkpixellabyrinth:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#height}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#height}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4191,11 +4191,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:height
+     * @attr name com.dpl.dpl_darkpixellabyrinth:height
      */
     public static final int ActionMode_height=3;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#subtitleTextStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#subtitleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4203,11 +4203,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:subtitleTextStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#titleTextStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#titleTextStyle}
      * attribute's value can be found in the {@link #ActionMode} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4215,7 +4215,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:titleTextStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -4225,8 +4225,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.the_desk.dpl_darkpixellabyrinth:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.the_desk.dpl_darkpixellabyrinth:initialActivityCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.dpl.dpl_darkpixellabyrinth:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.dpl.dpl_darkpixellabyrinth:initialActivityCount}</code></td><td></td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -4235,7 +4235,7 @@ public final class R {
       0x7f020077, 0x7f020093
     };
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#expandActivityOverflowButtonDrawable}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#expandActivityOverflowButtonDrawable}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4243,17 +4243,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:expandActivityOverflowButtonDrawable
+     * @attr name com.dpl.dpl_darkpixellabyrinth:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#initialActivityCount}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#initialActivityCount}
      * attribute's value can be found in the {@link #ActivityChooserView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:initialActivityCount
+     * @attr name com.dpl.dpl_darkpixellabyrinth:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -4264,13 +4264,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.the_desk.dpl_darkpixellabyrinth:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.the_desk.dpl_darkpixellabyrinth:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.the_desk.dpl_darkpixellabyrinth:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.the_desk.dpl_darkpixellabyrinth:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.the_desk.dpl_darkpixellabyrinth:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.the_desk.dpl_darkpixellabyrinth:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.the_desk.dpl_darkpixellabyrinth:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.dpl.dpl_darkpixellabyrinth:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.dpl.dpl_darkpixellabyrinth:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.dpl.dpl_darkpixellabyrinth:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.dpl.dpl_darkpixellabyrinth:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.dpl.dpl_darkpixellabyrinth:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.dpl.dpl_darkpixellabyrinth:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.dpl.dpl_darkpixellabyrinth:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -4298,7 +4298,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4307,11 +4307,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:buttonIconDimen
+     * @attr name com.dpl.dpl_darkpixellabyrinth:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4319,11 +4319,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:buttonPanelSideLayout
+     * @attr name com.dpl.dpl_darkpixellabyrinth:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4331,11 +4331,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:listItemLayout
+     * @attr name com.dpl.dpl_darkpixellabyrinth:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4343,11 +4343,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:listLayout
+     * @attr name com.dpl.dpl_darkpixellabyrinth:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4355,21 +4355,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:multiChoiceItemLayout
+     * @attr name com.dpl.dpl_darkpixellabyrinth:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:showTitle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4377,7 +4377,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:singleChoiceItemLayout
+     * @attr name com.dpl.dpl_darkpixellabyrinth:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -4388,9 +4388,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.the_desk.dpl_darkpixellabyrinth:srcCompat}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.the_desk.dpl_darkpixellabyrinth:tint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.the_desk.dpl_darkpixellabyrinth:tintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.dpl.dpl_darkpixellabyrinth:srcCompat}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.dpl.dpl_darkpixellabyrinth:tint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.dpl.dpl_darkpixellabyrinth:tintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -4416,7 +4416,7 @@ public final class R {
      */
     public static final int AppCompatImageView_android_src=0;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#srcCompat}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#srcCompat}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4424,22 +4424,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:srcCompat
+     * @attr name com.dpl.dpl_darkpixellabyrinth:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#tint}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#tint}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:tint
+     * @attr name com.dpl.dpl_darkpixellabyrinth:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#tintMode}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#tintMode}
      * attribute's value can be found in the {@link #AppCompatImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4456,7 +4456,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:tintMode
+     * @attr name com.dpl.dpl_darkpixellabyrinth:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -4467,9 +4467,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.the_desk.dpl_darkpixellabyrinth:tickMark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.the_desk.dpl_darkpixellabyrinth:tickMarkTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.the_desk.dpl_darkpixellabyrinth:tickMarkTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.dpl.dpl_darkpixellabyrinth:tickMark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.dpl.dpl_darkpixellabyrinth:tickMarkTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.dpl.dpl_darkpixellabyrinth:tickMarkTintMode}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -4492,7 +4492,7 @@ public final class R {
      */
     public static final int AppCompatSeekBar_android_thumb=0;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#tickMark}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#tickMark}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4500,22 +4500,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:tickMark
+     * @attr name com.dpl.dpl_darkpixellabyrinth:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#tickMarkTint}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#tickMarkTint}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:tickMarkTint
+     * @attr name com.dpl.dpl_darkpixellabyrinth:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#tickMarkTintMode}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#tickMarkTintMode}
      * attribute's value can be found in the {@link #AppCompatSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4532,7 +4532,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:tickMarkTintMode
+     * @attr name com.dpl.dpl_darkpixellabyrinth:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -4672,13 +4672,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.the_desk.dpl_darkpixellabyrinth:autoSizeMaxTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.the_desk.dpl_darkpixellabyrinth:autoSizeMinTextSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.the_desk.dpl_darkpixellabyrinth:autoSizePresetSizes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.the_desk.dpl_darkpixellabyrinth:autoSizeStepGranularity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.the_desk.dpl_darkpixellabyrinth:autoSizeTextType}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.the_desk.dpl_darkpixellabyrinth:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.the_desk.dpl_darkpixellabyrinth:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.dpl.dpl_darkpixellabyrinth:autoSizeMaxTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.dpl.dpl_darkpixellabyrinth:autoSizeMinTextSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.dpl.dpl_darkpixellabyrinth:autoSizePresetSizes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.dpl.dpl_darkpixellabyrinth:autoSizeStepGranularity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.dpl.dpl_darkpixellabyrinth:autoSizeTextType}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.dpl.dpl_darkpixellabyrinth:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.dpl.dpl_darkpixellabyrinth:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -4706,7 +4706,7 @@ public final class R {
      */
     public static final int AppCompatTextView_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#autoSizeMaxTextSize}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#autoSizeMaxTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4715,11 +4715,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:autoSizeMaxTextSize
+     * @attr name com.dpl.dpl_darkpixellabyrinth:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#autoSizeMinTextSize}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#autoSizeMinTextSize}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4728,11 +4728,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:autoSizeMinTextSize
+     * @attr name com.dpl.dpl_darkpixellabyrinth:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#autoSizePresetSizes}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#autoSizePresetSizes}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4740,11 +4740,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:autoSizePresetSizes
+     * @attr name com.dpl.dpl_darkpixellabyrinth:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#autoSizeStepGranularity}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#autoSizeStepGranularity}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -4753,11 +4753,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:autoSizeStepGranularity
+     * @attr name com.dpl.dpl_darkpixellabyrinth:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#autoSizeTextType}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#autoSizeTextType}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -4770,21 +4770,21 @@ public final class R {
      * <tr><td>uniform</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:autoSizeTextType
+     * @attr name com.dpl.dpl_darkpixellabyrinth:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#fontFamily}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:fontFamily
+     * @attr name com.dpl.dpl_darkpixellabyrinth:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=6;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #AppCompatTextView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -4794,7 +4794,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:textAllCaps
+     * @attr name com.dpl.dpl_darkpixellabyrinth:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=7;
     /**
@@ -4806,124 +4806,124 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.the_desk.dpl_darkpixellabyrinth:actionBarDivider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.the_desk.dpl_darkpixellabyrinth:actionBarItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.the_desk.dpl_darkpixellabyrinth:actionBarPopupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.the_desk.dpl_darkpixellabyrinth:actionBarSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.the_desk.dpl_darkpixellabyrinth:actionBarSplitStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.the_desk.dpl_darkpixellabyrinth:actionBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.the_desk.dpl_darkpixellabyrinth:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.the_desk.dpl_darkpixellabyrinth:actionBarTabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.the_desk.dpl_darkpixellabyrinth:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.the_desk.dpl_darkpixellabyrinth:actionBarTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.the_desk.dpl_darkpixellabyrinth:actionBarWidgetTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.the_desk.dpl_darkpixellabyrinth:actionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.the_desk.dpl_darkpixellabyrinth:actionDropDownStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.the_desk.dpl_darkpixellabyrinth:actionMenuTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.the_desk.dpl_darkpixellabyrinth:actionMenuTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.the_desk.dpl_darkpixellabyrinth:actionModeBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.the_desk.dpl_darkpixellabyrinth:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.the_desk.dpl_darkpixellabyrinth:actionModeCloseDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.the_desk.dpl_darkpixellabyrinth:actionModeCopyDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.the_desk.dpl_darkpixellabyrinth:actionModeCutDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.the_desk.dpl_darkpixellabyrinth:actionModeFindDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.the_desk.dpl_darkpixellabyrinth:actionModePasteDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.the_desk.dpl_darkpixellabyrinth:actionModePopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.the_desk.dpl_darkpixellabyrinth:actionModeSelectAllDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.the_desk.dpl_darkpixellabyrinth:actionModeShareDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.the_desk.dpl_darkpixellabyrinth:actionModeSplitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.the_desk.dpl_darkpixellabyrinth:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.the_desk.dpl_darkpixellabyrinth:actionModeWebSearchDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.the_desk.dpl_darkpixellabyrinth:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.the_desk.dpl_darkpixellabyrinth:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.the_desk.dpl_darkpixellabyrinth:activityChooserViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.the_desk.dpl_darkpixellabyrinth:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.the_desk.dpl_darkpixellabyrinth:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.the_desk.dpl_darkpixellabyrinth:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.the_desk.dpl_darkpixellabyrinth:alertDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.the_desk.dpl_darkpixellabyrinth:autoCompleteTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.the_desk.dpl_darkpixellabyrinth:borderlessButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.the_desk.dpl_darkpixellabyrinth:buttonBarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.the_desk.dpl_darkpixellabyrinth:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.the_desk.dpl_darkpixellabyrinth:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.the_desk.dpl_darkpixellabyrinth:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.the_desk.dpl_darkpixellabyrinth:buttonBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.the_desk.dpl_darkpixellabyrinth:buttonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.the_desk.dpl_darkpixellabyrinth:buttonStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.the_desk.dpl_darkpixellabyrinth:checkboxStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.the_desk.dpl_darkpixellabyrinth:checkedTextViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.the_desk.dpl_darkpixellabyrinth:colorAccent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.the_desk.dpl_darkpixellabyrinth:colorBackgroundFloating}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.the_desk.dpl_darkpixellabyrinth:colorButtonNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.the_desk.dpl_darkpixellabyrinth:colorControlActivated}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.the_desk.dpl_darkpixellabyrinth:colorControlHighlight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.the_desk.dpl_darkpixellabyrinth:colorControlNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.the_desk.dpl_darkpixellabyrinth:colorError}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.the_desk.dpl_darkpixellabyrinth:colorPrimary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.the_desk.dpl_darkpixellabyrinth:colorPrimaryDark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.the_desk.dpl_darkpixellabyrinth:colorSwitchThumbNormal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.the_desk.dpl_darkpixellabyrinth:controlBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.the_desk.dpl_darkpixellabyrinth:dialogPreferredPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.the_desk.dpl_darkpixellabyrinth:dialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.the_desk.dpl_darkpixellabyrinth:dividerHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.the_desk.dpl_darkpixellabyrinth:dividerVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.the_desk.dpl_darkpixellabyrinth:dropDownListViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.the_desk.dpl_darkpixellabyrinth:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.the_desk.dpl_darkpixellabyrinth:editTextBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.the_desk.dpl_darkpixellabyrinth:editTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.the_desk.dpl_darkpixellabyrinth:editTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.the_desk.dpl_darkpixellabyrinth:homeAsUpIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.the_desk.dpl_darkpixellabyrinth:imageButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.the_desk.dpl_darkpixellabyrinth:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.the_desk.dpl_darkpixellabyrinth:listDividerAlertDialog}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.the_desk.dpl_darkpixellabyrinth:listMenuViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.the_desk.dpl_darkpixellabyrinth:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.the_desk.dpl_darkpixellabyrinth:listPreferredItemHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.the_desk.dpl_darkpixellabyrinth:listPreferredItemHeightLarge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.the_desk.dpl_darkpixellabyrinth:listPreferredItemHeightSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.the_desk.dpl_darkpixellabyrinth:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.the_desk.dpl_darkpixellabyrinth:listPreferredItemPaddingRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.the_desk.dpl_darkpixellabyrinth:panelBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.the_desk.dpl_darkpixellabyrinth:panelMenuListTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.the_desk.dpl_darkpixellabyrinth:panelMenuListWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.the_desk.dpl_darkpixellabyrinth:popupMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.the_desk.dpl_darkpixellabyrinth:popupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.the_desk.dpl_darkpixellabyrinth:radioButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.the_desk.dpl_darkpixellabyrinth:ratingBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.the_desk.dpl_darkpixellabyrinth:ratingBarStyleIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.the_desk.dpl_darkpixellabyrinth:ratingBarStyleSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.the_desk.dpl_darkpixellabyrinth:searchViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.the_desk.dpl_darkpixellabyrinth:seekBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.the_desk.dpl_darkpixellabyrinth:selectableItemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.the_desk.dpl_darkpixellabyrinth:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.the_desk.dpl_darkpixellabyrinth:spinnerDropDownItemStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.the_desk.dpl_darkpixellabyrinth:spinnerStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.the_desk.dpl_darkpixellabyrinth:switchStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.the_desk.dpl_darkpixellabyrinth:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.the_desk.dpl_darkpixellabyrinth:textAppearanceListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.the_desk.dpl_darkpixellabyrinth:textAppearanceListItemSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.the_desk.dpl_darkpixellabyrinth:textAppearanceListItemSmall}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.the_desk.dpl_darkpixellabyrinth:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.the_desk.dpl_darkpixellabyrinth:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.the_desk.dpl_darkpixellabyrinth:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.the_desk.dpl_darkpixellabyrinth:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.the_desk.dpl_darkpixellabyrinth:textColorAlertDialogListItem}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.the_desk.dpl_darkpixellabyrinth:textColorSearchUrl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.the_desk.dpl_darkpixellabyrinth:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.the_desk.dpl_darkpixellabyrinth:toolbarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.the_desk.dpl_darkpixellabyrinth:tooltipForegroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.the_desk.dpl_darkpixellabyrinth:tooltipFrameBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.the_desk.dpl_darkpixellabyrinth:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.the_desk.dpl_darkpixellabyrinth:windowActionBar}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.the_desk.dpl_darkpixellabyrinth:windowActionBarOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.the_desk.dpl_darkpixellabyrinth:windowActionModeOverlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.the_desk.dpl_darkpixellabyrinth:windowFixedHeightMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.the_desk.dpl_darkpixellabyrinth:windowFixedHeightMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.the_desk.dpl_darkpixellabyrinth:windowFixedWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.the_desk.dpl_darkpixellabyrinth:windowFixedWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.the_desk.dpl_darkpixellabyrinth:windowMinWidthMajor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.the_desk.dpl_darkpixellabyrinth:windowMinWidthMinor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.the_desk.dpl_darkpixellabyrinth:windowNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.dpl.dpl_darkpixellabyrinth:actionBarDivider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.dpl.dpl_darkpixellabyrinth:actionBarItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.dpl.dpl_darkpixellabyrinth:actionBarPopupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.dpl.dpl_darkpixellabyrinth:actionBarSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.dpl.dpl_darkpixellabyrinth:actionBarSplitStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.dpl.dpl_darkpixellabyrinth:actionBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.dpl.dpl_darkpixellabyrinth:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.dpl.dpl_darkpixellabyrinth:actionBarTabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.dpl.dpl_darkpixellabyrinth:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.dpl.dpl_darkpixellabyrinth:actionBarTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.dpl.dpl_darkpixellabyrinth:actionBarWidgetTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.dpl.dpl_darkpixellabyrinth:actionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.dpl.dpl_darkpixellabyrinth:actionDropDownStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.dpl.dpl_darkpixellabyrinth:actionMenuTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.dpl.dpl_darkpixellabyrinth:actionMenuTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.dpl.dpl_darkpixellabyrinth:actionModeBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.dpl.dpl_darkpixellabyrinth:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.dpl.dpl_darkpixellabyrinth:actionModeCloseDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.dpl.dpl_darkpixellabyrinth:actionModeCopyDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.dpl.dpl_darkpixellabyrinth:actionModeCutDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.dpl.dpl_darkpixellabyrinth:actionModeFindDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.dpl.dpl_darkpixellabyrinth:actionModePasteDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.dpl.dpl_darkpixellabyrinth:actionModePopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.dpl.dpl_darkpixellabyrinth:actionModeSelectAllDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.dpl.dpl_darkpixellabyrinth:actionModeShareDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.dpl.dpl_darkpixellabyrinth:actionModeSplitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.dpl.dpl_darkpixellabyrinth:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.dpl.dpl_darkpixellabyrinth:actionModeWebSearchDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.dpl.dpl_darkpixellabyrinth:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.dpl.dpl_darkpixellabyrinth:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.dpl.dpl_darkpixellabyrinth:activityChooserViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.dpl.dpl_darkpixellabyrinth:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.dpl.dpl_darkpixellabyrinth:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.dpl.dpl_darkpixellabyrinth:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.dpl.dpl_darkpixellabyrinth:alertDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.dpl.dpl_darkpixellabyrinth:autoCompleteTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.dpl.dpl_darkpixellabyrinth:borderlessButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.dpl.dpl_darkpixellabyrinth:buttonBarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.dpl.dpl_darkpixellabyrinth:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.dpl.dpl_darkpixellabyrinth:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.dpl.dpl_darkpixellabyrinth:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.dpl.dpl_darkpixellabyrinth:buttonBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.dpl.dpl_darkpixellabyrinth:buttonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.dpl.dpl_darkpixellabyrinth:buttonStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.dpl.dpl_darkpixellabyrinth:checkboxStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.dpl.dpl_darkpixellabyrinth:checkedTextViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.dpl.dpl_darkpixellabyrinth:colorAccent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.dpl.dpl_darkpixellabyrinth:colorBackgroundFloating}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.dpl.dpl_darkpixellabyrinth:colorButtonNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.dpl.dpl_darkpixellabyrinth:colorControlActivated}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.dpl.dpl_darkpixellabyrinth:colorControlHighlight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.dpl.dpl_darkpixellabyrinth:colorControlNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.dpl.dpl_darkpixellabyrinth:colorError}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.dpl.dpl_darkpixellabyrinth:colorPrimary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.dpl.dpl_darkpixellabyrinth:colorPrimaryDark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.dpl.dpl_darkpixellabyrinth:colorSwitchThumbNormal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.dpl.dpl_darkpixellabyrinth:controlBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.dpl.dpl_darkpixellabyrinth:dialogPreferredPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.dpl.dpl_darkpixellabyrinth:dialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.dpl.dpl_darkpixellabyrinth:dividerHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.dpl.dpl_darkpixellabyrinth:dividerVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.dpl.dpl_darkpixellabyrinth:dropDownListViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.dpl.dpl_darkpixellabyrinth:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.dpl.dpl_darkpixellabyrinth:editTextBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.dpl.dpl_darkpixellabyrinth:editTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.dpl.dpl_darkpixellabyrinth:editTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.dpl.dpl_darkpixellabyrinth:homeAsUpIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.dpl.dpl_darkpixellabyrinth:imageButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.dpl.dpl_darkpixellabyrinth:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.dpl.dpl_darkpixellabyrinth:listDividerAlertDialog}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.dpl.dpl_darkpixellabyrinth:listMenuViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.dpl.dpl_darkpixellabyrinth:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.dpl.dpl_darkpixellabyrinth:listPreferredItemHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.dpl.dpl_darkpixellabyrinth:listPreferredItemHeightLarge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.dpl.dpl_darkpixellabyrinth:listPreferredItemHeightSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.dpl.dpl_darkpixellabyrinth:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.dpl.dpl_darkpixellabyrinth:listPreferredItemPaddingRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.dpl.dpl_darkpixellabyrinth:panelBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.dpl.dpl_darkpixellabyrinth:panelMenuListTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.dpl.dpl_darkpixellabyrinth:panelMenuListWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.dpl.dpl_darkpixellabyrinth:popupMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.dpl.dpl_darkpixellabyrinth:popupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.dpl.dpl_darkpixellabyrinth:radioButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.dpl.dpl_darkpixellabyrinth:ratingBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.dpl.dpl_darkpixellabyrinth:ratingBarStyleIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.dpl.dpl_darkpixellabyrinth:ratingBarStyleSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.dpl.dpl_darkpixellabyrinth:searchViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.dpl.dpl_darkpixellabyrinth:seekBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.dpl.dpl_darkpixellabyrinth:selectableItemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.dpl.dpl_darkpixellabyrinth:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.dpl.dpl_darkpixellabyrinth:spinnerDropDownItemStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.dpl.dpl_darkpixellabyrinth:spinnerStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.dpl.dpl_darkpixellabyrinth:switchStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.dpl.dpl_darkpixellabyrinth:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.dpl.dpl_darkpixellabyrinth:textAppearanceListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.dpl.dpl_darkpixellabyrinth:textAppearanceListItemSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.dpl.dpl_darkpixellabyrinth:textAppearanceListItemSmall}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.dpl.dpl_darkpixellabyrinth:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.dpl.dpl_darkpixellabyrinth:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.dpl.dpl_darkpixellabyrinth:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.dpl.dpl_darkpixellabyrinth:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.dpl.dpl_darkpixellabyrinth:textColorAlertDialogListItem}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.dpl.dpl_darkpixellabyrinth:textColorSearchUrl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.dpl.dpl_darkpixellabyrinth:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.dpl.dpl_darkpixellabyrinth:toolbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.dpl.dpl_darkpixellabyrinth:tooltipForegroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.dpl.dpl_darkpixellabyrinth:tooltipFrameBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.dpl.dpl_darkpixellabyrinth:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.dpl.dpl_darkpixellabyrinth:windowActionBar}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.dpl.dpl_darkpixellabyrinth:windowActionBarOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.dpl.dpl_darkpixellabyrinth:windowActionModeOverlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.dpl.dpl_darkpixellabyrinth:windowFixedHeightMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.dpl.dpl_darkpixellabyrinth:windowFixedHeightMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.dpl.dpl_darkpixellabyrinth:windowFixedWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.dpl.dpl_darkpixellabyrinth:windowFixedWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.dpl.dpl_darkpixellabyrinth:windowMinWidthMajor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.dpl.dpl_darkpixellabyrinth:windowMinWidthMinor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.dpl.dpl_darkpixellabyrinth:windowNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -5101,7 +5101,7 @@ public final class R {
      */
     public static final int AppCompatTheme_android_windowAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionBarDivider}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionBarDivider}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5109,11 +5109,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionBarDivider
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionBarItemBackground}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionBarItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5121,11 +5121,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionBarItemBackground
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionBarPopupTheme}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionBarPopupTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5133,11 +5133,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionBarPopupTheme
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionBarSize}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionBarSize}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5154,11 +5154,11 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionBarSize
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionBarSplitStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionBarSplitStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5166,11 +5166,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionBarSplitStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionBarStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5178,11 +5178,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionBarStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5190,11 +5190,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionBarTabBarStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionBarTabStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionBarTabStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5202,11 +5202,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionBarTabStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5214,11 +5214,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionBarTabTextStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionBarTheme}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionBarTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5226,11 +5226,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionBarTheme
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionBarWidgetTheme}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionBarWidgetTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5238,11 +5238,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionBarWidgetTheme
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5250,11 +5250,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionButtonStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionDropDownStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionDropDownStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5262,11 +5262,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionDropDownStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionMenuTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionMenuTextAppearance}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5274,11 +5274,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionMenuTextAppearance
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionMenuTextColor}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionMenuTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5289,11 +5289,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionMenuTextColor
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionModeBackground}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionModeBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5301,11 +5301,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionModeBackground
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5313,11 +5313,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionModeCloseButtonStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionModeCloseDrawable}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionModeCloseDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5325,11 +5325,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionModeCloseDrawable
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionModeCopyDrawable}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionModeCopyDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5337,11 +5337,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionModeCopyDrawable
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionModeCutDrawable}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionModeCutDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5349,11 +5349,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionModeCutDrawable
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionModeFindDrawable}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionModeFindDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5361,11 +5361,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionModeFindDrawable
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionModePasteDrawable}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionModePasteDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5373,11 +5373,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionModePasteDrawable
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionModePopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionModePopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5385,11 +5385,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionModePopupWindowStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionModeSelectAllDrawable}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionModeSelectAllDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5397,11 +5397,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionModeSelectAllDrawable
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionModeShareDrawable}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionModeShareDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5409,11 +5409,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionModeShareDrawable
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionModeSplitBackground}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionModeSplitBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5421,11 +5421,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionModeSplitBackground
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5433,11 +5433,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionModeStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionModeWebSearchDrawable}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionModeWebSearchDrawable}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5445,11 +5445,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionModeWebSearchDrawable
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5457,11 +5457,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionOverflowButtonStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5469,11 +5469,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionOverflowMenuStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#activityChooserViewStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#activityChooserViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5481,11 +5481,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:activityChooserViewStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5493,21 +5493,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:alertDialogButtonGroupStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:alertDialogCenterButtons
+     * @attr name com.dpl.dpl_darkpixellabyrinth:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5515,11 +5515,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:alertDialogStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#alertDialogTheme}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#alertDialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5527,11 +5527,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:alertDialogTheme
+     * @attr name com.dpl.dpl_darkpixellabyrinth:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#autoCompleteTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#autoCompleteTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5539,11 +5539,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:autoCompleteTextViewStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#borderlessButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#borderlessButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5551,11 +5551,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:borderlessButtonStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#buttonBarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#buttonBarButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5563,11 +5563,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:buttonBarButtonStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#buttonBarNegativeButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#buttonBarNegativeButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5575,11 +5575,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:buttonBarNegativeButtonStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#buttonBarNeutralButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#buttonBarNeutralButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5587,11 +5587,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:buttonBarNeutralButtonStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#buttonBarPositiveButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#buttonBarPositiveButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5599,11 +5599,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:buttonBarPositiveButtonStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#buttonBarStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#buttonBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5611,11 +5611,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:buttonBarStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#buttonStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#buttonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5623,11 +5623,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:buttonStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#buttonStyleSmall}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#buttonStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5635,11 +5635,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:buttonStyleSmall
+     * @attr name com.dpl.dpl_darkpixellabyrinth:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#checkboxStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#checkboxStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5647,11 +5647,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:checkboxStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#checkedTextViewStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#checkedTextViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5659,77 +5659,77 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:checkedTextViewStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#colorAccent}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#colorAccent}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:colorAccent
+     * @attr name com.dpl.dpl_darkpixellabyrinth:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#colorBackgroundFloating}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#colorBackgroundFloating}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:colorBackgroundFloating
+     * @attr name com.dpl.dpl_darkpixellabyrinth:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#colorButtonNormal}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#colorButtonNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:colorButtonNormal
+     * @attr name com.dpl.dpl_darkpixellabyrinth:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#colorControlActivated}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#colorControlActivated}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:colorControlActivated
+     * @attr name com.dpl.dpl_darkpixellabyrinth:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#colorControlHighlight}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#colorControlHighlight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:colorControlHighlight
+     * @attr name com.dpl.dpl_darkpixellabyrinth:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#colorControlNormal}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#colorControlNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:colorControlNormal
+     * @attr name com.dpl.dpl_darkpixellabyrinth:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#colorError}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#colorError}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5740,44 +5740,44 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:colorError
+     * @attr name com.dpl.dpl_darkpixellabyrinth:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#colorPrimary}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#colorPrimary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:colorPrimary
+     * @attr name com.dpl.dpl_darkpixellabyrinth:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#colorPrimaryDark}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#colorPrimaryDark}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:colorPrimaryDark
+     * @attr name com.dpl.dpl_darkpixellabyrinth:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#colorSwitchThumbNormal}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#colorSwitchThumbNormal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:colorSwitchThumbNormal
+     * @attr name com.dpl.dpl_darkpixellabyrinth:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#controlBackground}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#controlBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5785,11 +5785,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:controlBackground
+     * @attr name com.dpl.dpl_darkpixellabyrinth:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#dialogPreferredPadding}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#dialogPreferredPadding}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5798,11 +5798,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:dialogPreferredPadding
+     * @attr name com.dpl.dpl_darkpixellabyrinth:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=59;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#dialogTheme}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#dialogTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5810,11 +5810,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:dialogTheme
+     * @attr name com.dpl.dpl_darkpixellabyrinth:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=60;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#dividerHorizontal}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#dividerHorizontal}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5822,11 +5822,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:dividerHorizontal
+     * @attr name com.dpl.dpl_darkpixellabyrinth:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=61;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#dividerVertical}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#dividerVertical}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5834,11 +5834,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:dividerVertical
+     * @attr name com.dpl.dpl_darkpixellabyrinth:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=62;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#dropDownListViewStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#dropDownListViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5846,11 +5846,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:dropDownListViewStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=63;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#dropdownListPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#dropdownListPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5859,11 +5859,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:dropdownListPreferredItemHeight
+     * @attr name com.dpl.dpl_darkpixellabyrinth:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=64;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#editTextBackground}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#editTextBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5871,11 +5871,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:editTextBackground
+     * @attr name com.dpl.dpl_darkpixellabyrinth:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=65;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#editTextColor}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#editTextColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5886,11 +5886,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:editTextColor
+     * @attr name com.dpl.dpl_darkpixellabyrinth:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=66;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#editTextStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#editTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5898,11 +5898,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:editTextStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=67;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#homeAsUpIndicator}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#homeAsUpIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5910,11 +5910,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:homeAsUpIndicator
+     * @attr name com.dpl.dpl_darkpixellabyrinth:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=68;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#imageButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#imageButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5922,11 +5922,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:imageButtonStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=69;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#listChoiceBackgroundIndicator}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#listChoiceBackgroundIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5934,11 +5934,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:listChoiceBackgroundIndicator
+     * @attr name com.dpl.dpl_darkpixellabyrinth:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=70;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#listDividerAlertDialog}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#listDividerAlertDialog}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5946,11 +5946,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:listDividerAlertDialog
+     * @attr name com.dpl.dpl_darkpixellabyrinth:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=71;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#listMenuViewStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#listMenuViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5958,11 +5958,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:listMenuViewStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=72;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -5970,11 +5970,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:listPopupWindowStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#listPreferredItemHeight}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#listPreferredItemHeight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5983,11 +5983,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:listPreferredItemHeight
+     * @attr name com.dpl.dpl_darkpixellabyrinth:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=74;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#listPreferredItemHeightLarge}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#listPreferredItemHeightLarge}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -5996,11 +5996,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:listPreferredItemHeightLarge
+     * @attr name com.dpl.dpl_darkpixellabyrinth:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=75;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#listPreferredItemHeightSmall}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#listPreferredItemHeightSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6009,11 +6009,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:listPreferredItemHeightSmall
+     * @attr name com.dpl.dpl_darkpixellabyrinth:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=76;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#listPreferredItemPaddingLeft}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#listPreferredItemPaddingLeft}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6022,11 +6022,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:listPreferredItemPaddingLeft
+     * @attr name com.dpl.dpl_darkpixellabyrinth:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=77;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#listPreferredItemPaddingRight}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#listPreferredItemPaddingRight}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6035,11 +6035,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:listPreferredItemPaddingRight
+     * @attr name com.dpl.dpl_darkpixellabyrinth:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=78;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#panelBackground}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#panelBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6047,11 +6047,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:panelBackground
+     * @attr name com.dpl.dpl_darkpixellabyrinth:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=79;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#panelMenuListTheme}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#panelMenuListTheme}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6059,11 +6059,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:panelMenuListTheme
+     * @attr name com.dpl.dpl_darkpixellabyrinth:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=80;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#panelMenuListWidth}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#panelMenuListWidth}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6072,11 +6072,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:panelMenuListWidth
+     * @attr name com.dpl.dpl_darkpixellabyrinth:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=81;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#popupMenuStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#popupMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6084,11 +6084,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:popupMenuStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=82;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#popupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#popupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6096,11 +6096,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:popupWindowStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=83;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#radioButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#radioButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6108,11 +6108,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:radioButtonStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=84;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#ratingBarStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#ratingBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6120,11 +6120,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:ratingBarStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=85;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#ratingBarStyleIndicator}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#ratingBarStyleIndicator}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6132,11 +6132,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:ratingBarStyleIndicator
+     * @attr name com.dpl.dpl_darkpixellabyrinth:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=86;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#ratingBarStyleSmall}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#ratingBarStyleSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6144,11 +6144,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:ratingBarStyleSmall
+     * @attr name com.dpl.dpl_darkpixellabyrinth:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=87;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#searchViewStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#searchViewStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6156,11 +6156,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:searchViewStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=88;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#seekBarStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#seekBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6168,11 +6168,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:seekBarStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=89;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#selectableItemBackground}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#selectableItemBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6180,11 +6180,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:selectableItemBackground
+     * @attr name com.dpl.dpl_darkpixellabyrinth:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=90;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#selectableItemBackgroundBorderless}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#selectableItemBackgroundBorderless}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6192,11 +6192,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:selectableItemBackgroundBorderless
+     * @attr name com.dpl.dpl_darkpixellabyrinth:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=91;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#spinnerDropDownItemStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#spinnerDropDownItemStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6204,11 +6204,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:spinnerDropDownItemStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=92;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#spinnerStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#spinnerStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6216,11 +6216,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:spinnerStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=93;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#switchStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#switchStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6228,11 +6228,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:switchStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=94;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#textAppearanceLargePopupMenu}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#textAppearanceLargePopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6240,11 +6240,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:textAppearanceLargePopupMenu
+     * @attr name com.dpl.dpl_darkpixellabyrinth:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=95;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#textAppearanceListItem}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#textAppearanceListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6252,11 +6252,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:textAppearanceListItem
+     * @attr name com.dpl.dpl_darkpixellabyrinth:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=96;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#textAppearanceListItemSecondary}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#textAppearanceListItemSecondary}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6264,11 +6264,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:textAppearanceListItemSecondary
+     * @attr name com.dpl.dpl_darkpixellabyrinth:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=97;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#textAppearanceListItemSmall}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#textAppearanceListItemSmall}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6276,11 +6276,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:textAppearanceListItemSmall
+     * @attr name com.dpl.dpl_darkpixellabyrinth:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=98;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#textAppearancePopupMenuHeader}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#textAppearancePopupMenuHeader}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6288,11 +6288,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:textAppearancePopupMenuHeader
+     * @attr name com.dpl.dpl_darkpixellabyrinth:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=99;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#textAppearanceSearchResultSubtitle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#textAppearanceSearchResultSubtitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6300,11 +6300,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:textAppearanceSearchResultSubtitle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=100;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#textAppearanceSearchResultTitle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#textAppearanceSearchResultTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6312,11 +6312,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:textAppearanceSearchResultTitle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=101;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#textAppearanceSmallPopupMenu}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#textAppearanceSmallPopupMenu}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6324,11 +6324,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:textAppearanceSmallPopupMenu
+     * @attr name com.dpl.dpl_darkpixellabyrinth:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=102;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#textColorAlertDialogListItem}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#textColorAlertDialogListItem}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6339,11 +6339,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:textColorAlertDialogListItem
+     * @attr name com.dpl.dpl_darkpixellabyrinth:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=103;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#textColorSearchUrl}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#textColorSearchUrl}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6354,11 +6354,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:textColorSearchUrl
+     * @attr name com.dpl.dpl_darkpixellabyrinth:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=104;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#toolbarNavigationButtonStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#toolbarNavigationButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6366,11 +6366,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:toolbarNavigationButtonStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=105;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#toolbarStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#toolbarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6378,11 +6378,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:toolbarStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=106;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#tooltipForegroundColor}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#tooltipForegroundColor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6393,11 +6393,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:tooltipForegroundColor
+     * @attr name com.dpl.dpl_darkpixellabyrinth:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=107;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#tooltipFrameBackground}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#tooltipFrameBackground}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6405,51 +6405,51 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:tooltipFrameBackground
+     * @attr name com.dpl.dpl_darkpixellabyrinth:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=108;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:viewInflaterClass
+     * @attr name com.dpl.dpl_darkpixellabyrinth:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=109;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#windowActionBar}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#windowActionBar}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:windowActionBar
+     * @attr name com.dpl.dpl_darkpixellabyrinth:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=110;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#windowActionBarOverlay}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#windowActionBarOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:windowActionBarOverlay
+     * @attr name com.dpl.dpl_darkpixellabyrinth:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=111;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#windowActionModeOverlay}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#windowActionModeOverlay}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:windowActionModeOverlay
+     * @attr name com.dpl.dpl_darkpixellabyrinth:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=112;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#windowFixedHeightMajor}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#windowFixedHeightMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6462,11 +6462,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:windowFixedHeightMajor
+     * @attr name com.dpl.dpl_darkpixellabyrinth:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=113;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#windowFixedHeightMinor}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#windowFixedHeightMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6479,11 +6479,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:windowFixedHeightMinor
+     * @attr name com.dpl.dpl_darkpixellabyrinth:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=114;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#windowFixedWidthMajor}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#windowFixedWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6496,11 +6496,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:windowFixedWidthMajor
+     * @attr name com.dpl.dpl_darkpixellabyrinth:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=115;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#windowFixedWidthMinor}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#windowFixedWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6513,11 +6513,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:windowFixedWidthMinor
+     * @attr name com.dpl.dpl_darkpixellabyrinth:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=116;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#windowMinWidthMajor}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#windowMinWidthMajor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6530,11 +6530,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:windowMinWidthMajor
+     * @attr name com.dpl.dpl_darkpixellabyrinth:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=117;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#windowMinWidthMinor}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#windowMinWidthMinor}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -6547,17 +6547,17 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:windowMinWidthMinor
+     * @attr name com.dpl.dpl_darkpixellabyrinth:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=118;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#windowNoTitle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#windowNoTitle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:windowNoTitle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=119;
     /**
@@ -6567,7 +6567,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.the_desk.dpl_darkpixellabyrinth:allowStacking}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.dpl.dpl_darkpixellabyrinth:allowStacking}</code></td><td></td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
      */
@@ -6575,13 +6575,13 @@ public final class R {
       0x7f020026
     };
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#allowStacking}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#allowStacking}
      * attribute's value can be found in the {@link #ButtonBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:allowStacking
+     * @attr name com.dpl.dpl_darkpixellabyrinth:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -6593,7 +6593,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.the_desk.dpl_darkpixellabyrinth:alpha}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.dpl.dpl_darkpixellabyrinth:alpha}</code></td><td></td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -6623,12 +6623,12 @@ public final class R {
      */
     public static final int ColorStateListItem_android_alpha=1;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#alpha}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#alpha}
      * attribute's value can be found in the {@link #ColorStateListItem} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:alpha
+     * @attr name com.dpl.dpl_darkpixellabyrinth:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -6639,8 +6639,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.the_desk.dpl_darkpixellabyrinth:buttonTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.the_desk.dpl_darkpixellabyrinth:buttonTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.dpl.dpl_darkpixellabyrinth:buttonTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.dpl.dpl_darkpixellabyrinth:buttonTintMode}</code></td><td></td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -6662,18 +6662,18 @@ public final class R {
      */
     public static final int CompoundButton_android_button=0;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#buttonTint}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#buttonTint}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:buttonTint
+     * @attr name com.dpl.dpl_darkpixellabyrinth:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#buttonTintMode}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#buttonTintMode}
      * attribute's value can be found in the {@link #CompoundButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6690,7 +6690,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:buttonTintMode
+     * @attr name com.dpl.dpl_darkpixellabyrinth:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -6705,61 +6705,61 @@ public final class R {
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_maxHeight android:maxHeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.the_desk.dpl_darkpixellabyrinth:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.the_desk.dpl_darkpixellabyrinth:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.the_desk.dpl_darkpixellabyrinth:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.the_desk.dpl_darkpixellabyrinth:constraintSet}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.the_desk.dpl_darkpixellabyrinth:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.the_desk.dpl_darkpixellabyrinth:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.the_desk.dpl_darkpixellabyrinth:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.the_desk.dpl_darkpixellabyrinth:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.the_desk.dpl_darkpixellabyrinth:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.the_desk.dpl_darkpixellabyrinth:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.the_desk.dpl_darkpixellabyrinth:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.the_desk.dpl_darkpixellabyrinth:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.the_desk.dpl_darkpixellabyrinth:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.the_desk.dpl_darkpixellabyrinth:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.the_desk.dpl_darkpixellabyrinth:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.the_desk.dpl_darkpixellabyrinth:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.the_desk.dpl_darkpixellabyrinth:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.the_desk.dpl_darkpixellabyrinth:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.the_desk.dpl_darkpixellabyrinth:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.the_desk.dpl_darkpixellabyrinth:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.the_desk.dpl_darkpixellabyrinth:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.the_desk.dpl_darkpixellabyrinth:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.the_desk.dpl_darkpixellabyrinth:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.the_desk.dpl_darkpixellabyrinth:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.the_desk.dpl_darkpixellabyrinth:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.the_desk.dpl_darkpixellabyrinth:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.the_desk.dpl_darkpixellabyrinth:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.the_desk.dpl_darkpixellabyrinth:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.the_desk.dpl_darkpixellabyrinth:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.the_desk.dpl_darkpixellabyrinth:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.the_desk.dpl_darkpixellabyrinth:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.the_desk.dpl_darkpixellabyrinth:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.the_desk.dpl_darkpixellabyrinth:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.the_desk.dpl_darkpixellabyrinth:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.the_desk.dpl_darkpixellabyrinth:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.the_desk.dpl_darkpixellabyrinth:layout_optimizationLevel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.dpl.dpl_darkpixellabyrinth:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.dpl.dpl_darkpixellabyrinth:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.dpl.dpl_darkpixellabyrinth:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.dpl.dpl_darkpixellabyrinth:constraintSet}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.dpl.dpl_darkpixellabyrinth:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.dpl.dpl_darkpixellabyrinth:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.dpl.dpl_darkpixellabyrinth:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.dpl.dpl_darkpixellabyrinth:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.dpl.dpl_darkpixellabyrinth:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.dpl.dpl_darkpixellabyrinth:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.dpl.dpl_darkpixellabyrinth:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.dpl.dpl_darkpixellabyrinth:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.dpl.dpl_darkpixellabyrinth:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.dpl.dpl_darkpixellabyrinth:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.dpl.dpl_darkpixellabyrinth:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.dpl.dpl_darkpixellabyrinth:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.dpl.dpl_darkpixellabyrinth:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.dpl.dpl_darkpixellabyrinth:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.dpl.dpl_darkpixellabyrinth:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.dpl.dpl_darkpixellabyrinth:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.dpl.dpl_darkpixellabyrinth:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.dpl.dpl_darkpixellabyrinth:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.dpl.dpl_darkpixellabyrinth:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.dpl.dpl_darkpixellabyrinth:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.dpl.dpl_darkpixellabyrinth:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.dpl.dpl_darkpixellabyrinth:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.dpl.dpl_darkpixellabyrinth:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.dpl.dpl_darkpixellabyrinth:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.dpl.dpl_darkpixellabyrinth:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.dpl.dpl_darkpixellabyrinth:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.dpl.dpl_darkpixellabyrinth:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.dpl.dpl_darkpixellabyrinth:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.dpl.dpl_darkpixellabyrinth:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.dpl.dpl_darkpixellabyrinth:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.dpl.dpl_darkpixellabyrinth:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.dpl.dpl_darkpixellabyrinth:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.dpl.dpl_darkpixellabyrinth:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.dpl.dpl_darkpixellabyrinth:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.dpl.dpl_darkpixellabyrinth:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.dpl.dpl_darkpixellabyrinth:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.dpl.dpl_darkpixellabyrinth:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.dpl.dpl_darkpixellabyrinth:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.dpl.dpl_darkpixellabyrinth:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.dpl.dpl_darkpixellabyrinth:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.dpl.dpl_darkpixellabyrinth:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.dpl.dpl_darkpixellabyrinth:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.dpl.dpl_darkpixellabyrinth:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.dpl.dpl_darkpixellabyrinth:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.dpl.dpl_darkpixellabyrinth:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.dpl.dpl_darkpixellabyrinth:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.dpl.dpl_darkpixellabyrinth:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.dpl.dpl_darkpixellabyrinth:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.dpl.dpl_darkpixellabyrinth:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.dpl.dpl_darkpixellabyrinth:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.dpl.dpl_darkpixellabyrinth:layout_optimizationLevel}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_Layout_android_orientation
      * @see #ConstraintLayout_Layout_android_maxWidth
@@ -6909,17 +6909,17 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_minHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:barrierAllowsGoneWidgets
+     * @attr name com.dpl.dpl_darkpixellabyrinth:barrierAllowsGoneWidgets
      */
     public static final int ConstraintLayout_Layout_barrierAllowsGoneWidgets=5;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -6936,21 +6936,21 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:barrierDirection
+     * @attr name com.dpl.dpl_darkpixellabyrinth:barrierDirection
      */
     public static final int ConstraintLayout_Layout_barrierDirection=6;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:chainUseRtl
+     * @attr name com.dpl.dpl_darkpixellabyrinth:chainUseRtl
      */
     public static final int ConstraintLayout_Layout_chainUseRtl=7;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -6958,50 +6958,50 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:constraintSet
+     * @attr name com.dpl.dpl_darkpixellabyrinth:constraintSet
      */
     public static final int ConstraintLayout_Layout_constraintSet=8;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:constraint_referenced_ids
+     * @attr name com.dpl.dpl_darkpixellabyrinth:constraint_referenced_ids
      */
     public static final int ConstraintLayout_Layout_constraint_referenced_ids=9;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constrainedHeight
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constrainedHeight
      */
     public static final int ConstraintLayout_Layout_layout_constrainedHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constrainedWidth
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constrainedWidth
      */
     public static final int ConstraintLayout_Layout_layout_constrainedWidth=11;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintBaseline_creator
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintBaseline_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=12;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7017,20 +7017,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintBaseline_toBaselineOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=13;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintBottom_creator
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintBottom_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=14;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7046,11 +7046,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintBottom_toBottomOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=15;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7066,11 +7066,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintBottom_toTopOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=16;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7078,20 +7078,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintCircle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintCircle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintCircleAngle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintCircleAngle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleAngle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7100,21 +7100,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintCircleRadius
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintCircleRadius
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleRadius=19;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintDimensionRatio
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintDimensionRatio
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=20;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7130,11 +7130,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintEnd_toEndOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=21;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7150,11 +7150,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintEnd_toStartOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=22;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7163,11 +7163,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintGuide_begin
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintGuide_begin
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=23;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7176,20 +7176,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintGuide_end
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintGuide_end
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=24;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintGuide_percent
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintGuide_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=25;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7203,11 +7203,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintHeight_default
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintHeight_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=26;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7224,11 +7224,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintHeight_max
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintHeight_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=27;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7245,29 +7245,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintHeight_min
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintHeight_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=28;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintHeight_percent
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintHeight_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_percent=29;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintHorizontal_bias
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintHorizontal_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=30;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7281,29 +7281,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintHorizontal_chainStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintHorizontal_weight
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintHorizontal_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=32;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintLeft_creator
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintLeft_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7319,11 +7319,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintLeft_toLeftOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7339,20 +7339,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintLeft_toRightOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=35;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintRight_creator
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintRight_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=36;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7368,11 +7368,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintRight_toLeftOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7388,11 +7388,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintRight_toRightOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintRight_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=38;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7408,11 +7408,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintStart_toEndOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintStart_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=39;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7428,20 +7428,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintStart_toStartOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintStart_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=40;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintTop_creator
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintTop_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=41;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7457,11 +7457,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintTop_toBottomOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7477,20 +7477,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintTop_toTopOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintTop_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintVertical_bias
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintVertical_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=44;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7504,20 +7504,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintVertical_chainStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=45;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintVertical_weight
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintVertical_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=46;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7531,11 +7531,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintWidth_default
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintWidth_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7552,11 +7552,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintWidth_max
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintWidth_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7573,20 +7573,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintWidth_min
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintWidth_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintWidth_percent
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintWidth_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7595,11 +7595,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_editor_absoluteX
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_editor_absoluteX
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=51;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7608,11 +7608,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_editor_absoluteY
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_editor_absoluteY
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=52;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7621,11 +7621,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginBottom
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_goneMarginBottom
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=53;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7634,11 +7634,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginEnd
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_goneMarginEnd
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=54;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7647,11 +7647,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginLeft
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_goneMarginLeft
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=55;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7660,11 +7660,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginRight
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_goneMarginRight
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=56;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7673,11 +7673,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginStart
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_goneMarginStart
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=57;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -7686,11 +7686,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginTop
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_goneMarginTop
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=58;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -7708,7 +7708,7 @@ public final class R {
      * <tr><td>standard</td><td>7</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_optimizationLevel
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_optimizationLevel
      */
     public static final int ConstraintLayout_Layout_layout_optimizationLevel=59;
     /**
@@ -7718,8 +7718,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.the_desk.dpl_darkpixellabyrinth:content}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.the_desk.dpl_darkpixellabyrinth:emptyVisibility}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.dpl.dpl_darkpixellabyrinth:content}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.dpl.dpl_darkpixellabyrinth:emptyVisibility}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_placeholder_content
      * @see #ConstraintLayout_placeholder_emptyVisibility
@@ -7728,7 +7728,7 @@ public final class R {
       0x7f02005b, 0x7f020076
     };
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#content}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#content}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -7736,11 +7736,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:content
+     * @attr name com.dpl.dpl_darkpixellabyrinth:content
      */
     public static final int ConstraintLayout_placeholder_content=0;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#emptyVisibility}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#emptyVisibility}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -7753,7 +7753,7 @@ public final class R {
      * <tr><td>invisible</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:emptyVisibility
+     * @attr name com.dpl.dpl_darkpixellabyrinth:emptyVisibility
      */
     public static final int ConstraintLayout_placeholder_emptyVisibility=1;
     /**
@@ -7790,59 +7790,59 @@ public final class R {
      * <tr><td><code>{@link #ConstraintSet_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.the_desk.dpl_darkpixellabyrinth:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.the_desk.dpl_darkpixellabyrinth:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.the_desk.dpl_darkpixellabyrinth:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.the_desk.dpl_darkpixellabyrinth:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.the_desk.dpl_darkpixellabyrinth:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.the_desk.dpl_darkpixellabyrinth:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.the_desk.dpl_darkpixellabyrinth:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.the_desk.dpl_darkpixellabyrinth:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.the_desk.dpl_darkpixellabyrinth:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.the_desk.dpl_darkpixellabyrinth:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.the_desk.dpl_darkpixellabyrinth:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.the_desk.dpl_darkpixellabyrinth:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.the_desk.dpl_darkpixellabyrinth:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.the_desk.dpl_darkpixellabyrinth:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.the_desk.dpl_darkpixellabyrinth:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.the_desk.dpl_darkpixellabyrinth:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.the_desk.dpl_darkpixellabyrinth:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.the_desk.dpl_darkpixellabyrinth:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.the_desk.dpl_darkpixellabyrinth:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.the_desk.dpl_darkpixellabyrinth:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.the_desk.dpl_darkpixellabyrinth:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.the_desk.dpl_darkpixellabyrinth:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.the_desk.dpl_darkpixellabyrinth:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.the_desk.dpl_darkpixellabyrinth:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.the_desk.dpl_darkpixellabyrinth:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.the_desk.dpl_darkpixellabyrinth:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.the_desk.dpl_darkpixellabyrinth:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.the_desk.dpl_darkpixellabyrinth:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.the_desk.dpl_darkpixellabyrinth:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.the_desk.dpl_darkpixellabyrinth:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.the_desk.dpl_darkpixellabyrinth:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.the_desk.dpl_darkpixellabyrinth:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.the_desk.dpl_darkpixellabyrinth:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.the_desk.dpl_darkpixellabyrinth:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.the_desk.dpl_darkpixellabyrinth:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.dpl.dpl_darkpixellabyrinth:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.dpl.dpl_darkpixellabyrinth:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.dpl.dpl_darkpixellabyrinth:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.dpl.dpl_darkpixellabyrinth:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.dpl.dpl_darkpixellabyrinth:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.dpl.dpl_darkpixellabyrinth:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.dpl.dpl_darkpixellabyrinth:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.dpl.dpl_darkpixellabyrinth:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.dpl.dpl_darkpixellabyrinth:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.dpl.dpl_darkpixellabyrinth:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.dpl.dpl_darkpixellabyrinth:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.dpl.dpl_darkpixellabyrinth:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.dpl.dpl_darkpixellabyrinth:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.dpl.dpl_darkpixellabyrinth:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.dpl.dpl_darkpixellabyrinth:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.dpl.dpl_darkpixellabyrinth:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.dpl.dpl_darkpixellabyrinth:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.dpl.dpl_darkpixellabyrinth:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.dpl.dpl_darkpixellabyrinth:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.dpl.dpl_darkpixellabyrinth:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.dpl.dpl_darkpixellabyrinth:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.dpl.dpl_darkpixellabyrinth:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.dpl.dpl_darkpixellabyrinth:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.dpl.dpl_darkpixellabyrinth:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.dpl.dpl_darkpixellabyrinth:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.dpl.dpl_darkpixellabyrinth:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.dpl.dpl_darkpixellabyrinth:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.dpl.dpl_darkpixellabyrinth:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.dpl.dpl_darkpixellabyrinth:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.dpl.dpl_darkpixellabyrinth:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.dpl.dpl_darkpixellabyrinth:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.dpl.dpl_darkpixellabyrinth:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.dpl.dpl_darkpixellabyrinth:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.dpl.dpl_darkpixellabyrinth:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.dpl.dpl_darkpixellabyrinth:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.dpl.dpl_darkpixellabyrinth:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.dpl.dpl_darkpixellabyrinth:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.dpl.dpl_darkpixellabyrinth:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.dpl.dpl_darkpixellabyrinth:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.dpl.dpl_darkpixellabyrinth:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.dpl.dpl_darkpixellabyrinth:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.dpl.dpl_darkpixellabyrinth:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.dpl.dpl_darkpixellabyrinth:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.dpl.dpl_darkpixellabyrinth:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.dpl.dpl_darkpixellabyrinth:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.dpl.dpl_darkpixellabyrinth:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.dpl.dpl_darkpixellabyrinth:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.dpl.dpl_darkpixellabyrinth:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.dpl.dpl_darkpixellabyrinth:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.dpl.dpl_darkpixellabyrinth:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.dpl.dpl_darkpixellabyrinth:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.dpl.dpl_darkpixellabyrinth:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.dpl.dpl_darkpixellabyrinth:layout_goneMarginTop}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintSet_android_orientation
      * @see #ConstraintSet_android_id
@@ -8303,17 +8303,17 @@ public final class R {
      */
     public static final int ConstraintSet_android_elevation=26;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:barrierAllowsGoneWidgets
+     * @attr name com.dpl.dpl_darkpixellabyrinth:barrierAllowsGoneWidgets
      */
     public static final int ConstraintSet_barrierAllowsGoneWidgets=27;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8330,60 +8330,60 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:barrierDirection
+     * @attr name com.dpl.dpl_darkpixellabyrinth:barrierDirection
      */
     public static final int ConstraintSet_barrierDirection=28;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:chainUseRtl
+     * @attr name com.dpl.dpl_darkpixellabyrinth:chainUseRtl
      */
     public static final int ConstraintSet_chainUseRtl=29;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:constraint_referenced_ids
+     * @attr name com.dpl.dpl_darkpixellabyrinth:constraint_referenced_ids
      */
     public static final int ConstraintSet_constraint_referenced_ids=30;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constrainedHeight
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constrainedHeight
      */
     public static final int ConstraintSet_layout_constrainedHeight=31;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constrainedWidth
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constrainedWidth
      */
     public static final int ConstraintSet_layout_constrainedWidth=32;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintBaseline_creator
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintBaseline_creator
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8399,20 +8399,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintBaseline_toBaselineOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintBottom_creator
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintBottom_creator
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=35;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8428,11 +8428,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintBottom_toBottomOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=36;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8448,11 +8448,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintBottom_toTopOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8460,20 +8460,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintCircle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintCircle
      */
     public static final int ConstraintSet_layout_constraintCircle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintCircleAngle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintCircleAngle
      */
     public static final int ConstraintSet_layout_constraintCircleAngle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8482,21 +8482,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintCircleRadius
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintCircleRadius
      */
     public static final int ConstraintSet_layout_constraintCircleRadius=40;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintDimensionRatio
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintDimensionRatio
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=41;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8512,11 +8512,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintEnd_toEndOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8532,11 +8532,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintEnd_toStartOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8545,11 +8545,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintGuide_begin
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintGuide_begin
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=44;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8558,20 +8558,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintGuide_end
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintGuide_end
      */
     public static final int ConstraintSet_layout_constraintGuide_end=45;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintGuide_percent
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintGuide_percent
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=46;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8585,11 +8585,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintHeight_default
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintHeight_default
      */
     public static final int ConstraintSet_layout_constraintHeight_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8606,11 +8606,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintHeight_max
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintHeight_max
      */
     public static final int ConstraintSet_layout_constraintHeight_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8627,29 +8627,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintHeight_min
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintHeight_min
      */
     public static final int ConstraintSet_layout_constraintHeight_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintHeight_percent
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintHeight_percent
      */
     public static final int ConstraintSet_layout_constraintHeight_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintHorizontal_bias
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintHorizontal_bias
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=51;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8663,29 +8663,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintHorizontal_chainStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=52;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintHorizontal_weight
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintHorizontal_weight
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=53;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintLeft_creator
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintLeft_creator
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=54;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8701,11 +8701,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintLeft_toLeftOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=55;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8721,20 +8721,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintLeft_toRightOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=56;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintRight_creator
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintRight_creator
      */
     public static final int ConstraintSet_layout_constraintRight_creator=57;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8750,11 +8750,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintRight_toLeftOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=58;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8770,11 +8770,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintRight_toRightOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintRight_toRightOf
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=59;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8790,11 +8790,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintStart_toEndOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintStart_toEndOf
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=60;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8810,20 +8810,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintStart_toStartOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintStart_toStartOf
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=61;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintTop_creator
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintTop_creator
      */
     public static final int ConstraintSet_layout_constraintTop_creator=62;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8839,11 +8839,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintTop_toBottomOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=63;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -8859,20 +8859,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintTop_toTopOf
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintTop_toTopOf
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=64;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintVertical_bias
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintVertical_bias
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=65;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8886,20 +8886,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintVertical_chainStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=66;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintVertical_weight
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintVertical_weight
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=67;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -8913,11 +8913,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintWidth_default
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintWidth_default
      */
     public static final int ConstraintSet_layout_constraintWidth_default=68;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8934,11 +8934,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintWidth_max
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintWidth_max
      */
     public static final int ConstraintSet_layout_constraintWidth_max=69;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8955,20 +8955,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintWidth_min
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintWidth_min
      */
     public static final int ConstraintSet_layout_constraintWidth_min=70;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_constraintWidth_percent
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_constraintWidth_percent
      */
     public static final int ConstraintSet_layout_constraintWidth_percent=71;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8977,11 +8977,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_editor_absoluteX
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_editor_absoluteX
      */
     public static final int ConstraintSet_layout_editor_absoluteX=72;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -8990,11 +8990,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_editor_absoluteY
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_editor_absoluteY
      */
     public static final int ConstraintSet_layout_editor_absoluteY=73;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9003,11 +9003,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginBottom
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_goneMarginBottom
      */
     public static final int ConstraintSet_layout_goneMarginBottom=74;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9016,11 +9016,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginEnd
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_goneMarginEnd
      */
     public static final int ConstraintSet_layout_goneMarginEnd=75;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9029,11 +9029,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginLeft
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_goneMarginLeft
      */
     public static final int ConstraintSet_layout_goneMarginLeft=76;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9042,11 +9042,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginRight
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_goneMarginRight
      */
     public static final int ConstraintSet_layout_goneMarginRight=77;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9055,11 +9055,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginStart
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_goneMarginStart
      */
     public static final int ConstraintSet_layout_goneMarginStart=78;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9068,7 +9068,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_goneMarginTop
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_goneMarginTop
      */
     public static final int ConstraintSet_layout_goneMarginTop=79;
     /**
@@ -9078,8 +9078,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.the_desk.dpl_darkpixellabyrinth:keylines}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.the_desk.dpl_darkpixellabyrinth:statusBarBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.dpl.dpl_darkpixellabyrinth:keylines}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.dpl.dpl_darkpixellabyrinth:statusBarBackground}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -9088,7 +9088,7 @@ public final class R {
       0x7f020096, 0x7f02010d
     };
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#keylines}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#keylines}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9096,11 +9096,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:keylines
+     * @attr name com.dpl.dpl_darkpixellabyrinth:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#statusBarBackground}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#statusBarBackground}
      * attribute's value can be found in the {@link #CoordinatorLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9111,7 +9111,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:statusBarBackground
+     * @attr name com.dpl.dpl_darkpixellabyrinth:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -9122,12 +9122,12 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.the_desk.dpl_darkpixellabyrinth:layout_anchor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.the_desk.dpl_darkpixellabyrinth:layout_anchorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.the_desk.dpl_darkpixellabyrinth:layout_behavior}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.the_desk.dpl_darkpixellabyrinth:layout_dodgeInsetEdges}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.the_desk.dpl_darkpixellabyrinth:layout_insetEdge}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.the_desk.dpl_darkpixellabyrinth:layout_keyline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.dpl.dpl_darkpixellabyrinth:layout_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.dpl.dpl_darkpixellabyrinth:layout_anchorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.dpl.dpl_darkpixellabyrinth:layout_behavior}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.dpl.dpl_darkpixellabyrinth:layout_dodgeInsetEdges}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.dpl.dpl_darkpixellabyrinth:layout_insetEdge}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.dpl.dpl_darkpixellabyrinth:layout_keyline}</code></td><td></td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -9171,7 +9171,7 @@ public final class R {
      */
     public static final int CoordinatorLayout_Layout_android_layout_gravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_anchor}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_anchor}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9179,11 +9179,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_anchor
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_anchorGravity}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_anchorGravity}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9208,21 +9208,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_anchorGravity
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_behavior}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_behavior}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_behavior
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_dodgeInsetEdges}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_dodgeInsetEdges}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9241,11 +9241,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_dodgeInsetEdges
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_insetEdge}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_insetEdge}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9263,16 +9263,16 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_insetEdge
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout_keyline}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout_keyline}
      * attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout_keyline
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -9282,14 +9282,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.the_desk.dpl_darkpixellabyrinth:arrowHeadLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.the_desk.dpl_darkpixellabyrinth:arrowShaftLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.the_desk.dpl_darkpixellabyrinth:barLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.the_desk.dpl_darkpixellabyrinth:color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.the_desk.dpl_darkpixellabyrinth:drawableSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.the_desk.dpl_darkpixellabyrinth:gapBetweenBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.the_desk.dpl_darkpixellabyrinth:spinBars}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.the_desk.dpl_darkpixellabyrinth:thickness}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.dpl.dpl_darkpixellabyrinth:arrowHeadLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.dpl.dpl_darkpixellabyrinth:arrowShaftLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.dpl.dpl_darkpixellabyrinth:barLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.dpl.dpl_darkpixellabyrinth:color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.dpl.dpl_darkpixellabyrinth:drawableSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.dpl.dpl_darkpixellabyrinth:gapBetweenBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.dpl.dpl_darkpixellabyrinth:spinBars}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.dpl.dpl_darkpixellabyrinth:thickness}</code></td><td></td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -9305,7 +9305,7 @@ public final class R {
       0x7f02006e, 0x7f020087, 0x7f020106, 0x7f020125
     };
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#arrowHeadLength}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#arrowHeadLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9314,11 +9314,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:arrowHeadLength
+     * @attr name com.dpl.dpl_darkpixellabyrinth:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#arrowShaftLength}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#arrowShaftLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9327,11 +9327,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:arrowShaftLength
+     * @attr name com.dpl.dpl_darkpixellabyrinth:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#barLength}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#barLength}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9340,22 +9340,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:barLength
+     * @attr name com.dpl.dpl_darkpixellabyrinth:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#color}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#color}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:color
+     * @attr name com.dpl.dpl_darkpixellabyrinth:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#drawableSize}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#drawableSize}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9364,11 +9364,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:drawableSize
+     * @attr name com.dpl.dpl_darkpixellabyrinth:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#gapBetweenBars}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#gapBetweenBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9377,21 +9377,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:gapBetweenBars
+     * @attr name com.dpl.dpl_darkpixellabyrinth:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#spinBars}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#spinBars}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:spinBars
+     * @attr name com.dpl.dpl_darkpixellabyrinth:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#thickness}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#thickness}
      * attribute's value can be found in the {@link #DrawerArrowToggle} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9400,7 +9400,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:thickness
+     * @attr name com.dpl.dpl_darkpixellabyrinth:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -9410,12 +9410,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.the_desk.dpl_darkpixellabyrinth:fontProviderAuthority}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.the_desk.dpl_darkpixellabyrinth:fontProviderCerts}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.the_desk.dpl_darkpixellabyrinth:fontProviderFetchStrategy}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.the_desk.dpl_darkpixellabyrinth:fontProviderFetchTimeout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.the_desk.dpl_darkpixellabyrinth:fontProviderPackage}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.the_desk.dpl_darkpixellabyrinth:fontProviderQuery}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.dpl.dpl_darkpixellabyrinth:fontProviderAuthority}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.dpl.dpl_darkpixellabyrinth:fontProviderCerts}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.dpl.dpl_darkpixellabyrinth:fontProviderFetchStrategy}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.dpl.dpl_darkpixellabyrinth:fontProviderFetchTimeout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.dpl.dpl_darkpixellabyrinth:fontProviderPackage}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.dpl.dpl_darkpixellabyrinth:fontProviderQuery}</code></td><td></td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -9429,17 +9429,17 @@ public final class R {
       0x7f020083, 0x7f020084
     };
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#fontProviderAuthority}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#fontProviderAuthority}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:fontProviderAuthority
+     * @attr name com.dpl.dpl_darkpixellabyrinth:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#fontProviderCerts}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#fontProviderCerts}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9447,11 +9447,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:fontProviderCerts
+     * @attr name com.dpl.dpl_darkpixellabyrinth:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#fontProviderFetchStrategy}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#fontProviderFetchStrategy}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9464,11 +9464,11 @@ public final class R {
      * <tr><td>blocking</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:fontProviderFetchStrategy
+     * @attr name com.dpl.dpl_darkpixellabyrinth:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#fontProviderFetchTimeout}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#fontProviderFetchTimeout}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
@@ -9481,27 +9481,27 @@ public final class R {
      * <tr><td>forever</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:fontProviderFetchTimeout
+     * @attr name com.dpl.dpl_darkpixellabyrinth:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#fontProviderPackage}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#fontProviderPackage}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:fontProviderPackage
+     * @attr name com.dpl.dpl_darkpixellabyrinth:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#fontProviderQuery}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#fontProviderQuery}
      * attribute's value can be found in the {@link #FontFamily} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:fontProviderQuery
+     * @attr name com.dpl.dpl_darkpixellabyrinth:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -9514,9 +9514,9 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_font android:font}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontWeight android:fontWeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.the_desk.dpl_darkpixellabyrinth:font}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.the_desk.dpl_darkpixellabyrinth:fontStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.the_desk.dpl_darkpixellabyrinth:fontWeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.dpl.dpl_darkpixellabyrinth:font}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.dpl.dpl_darkpixellabyrinth:fontStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.dpl.dpl_darkpixellabyrinth:fontWeight}</code></td><td></td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -9568,7 +9568,7 @@ public final class R {
      */
     public static final int FontFamilyFont_android_fontStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#font}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#font}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9576,11 +9576,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:font
+     * @attr name com.dpl.dpl_darkpixellabyrinth:font
      */
     public static final int FontFamilyFont_font=3;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#fontStyle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#fontStyle}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -9593,16 +9593,16 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:fontStyle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=4;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#fontWeight}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#fontWeight}
      * attribute's value can be found in the {@link #FontFamilyFont} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:fontWeight
+     * @attr name com.dpl.dpl_darkpixellabyrinth:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=5;
     /**
@@ -9648,10 +9648,10 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.the_desk.dpl_darkpixellabyrinth:divider}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.the_desk.dpl_darkpixellabyrinth:dividerPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.the_desk.dpl_darkpixellabyrinth:measureWithLargestChild}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.the_desk.dpl_darkpixellabyrinth:showDividers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.dpl.dpl_darkpixellabyrinth:divider}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.dpl.dpl_darkpixellabyrinth:dividerPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.dpl.dpl_darkpixellabyrinth:measureWithLargestChild}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.dpl.dpl_darkpixellabyrinth:showDividers}</code></td><td></td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -9743,7 +9743,7 @@ public final class R {
      */
     public static final int LinearLayoutCompat_android_weightSum=4;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#divider}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#divider}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9751,11 +9751,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:divider
+     * @attr name com.dpl.dpl_darkpixellabyrinth:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#dividerPadding}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#dividerPadding}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9764,21 +9764,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:dividerPadding
+     * @attr name com.dpl.dpl_darkpixellabyrinth:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#measureWithLargestChild}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#measureWithLargestChild}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:measureWithLargestChild
+     * @attr name com.dpl.dpl_darkpixellabyrinth:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#showDividers}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#showDividers}
      * attribute's value can be found in the {@link #LinearLayoutCompat} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -9793,7 +9793,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:showDividers
+     * @attr name com.dpl.dpl_darkpixellabyrinth:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -10065,16 +10065,16 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.the_desk.dpl_darkpixellabyrinth:actionLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.the_desk.dpl_darkpixellabyrinth:actionProviderClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.the_desk.dpl_darkpixellabyrinth:actionViewClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.the_desk.dpl_darkpixellabyrinth:alphabeticModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.the_desk.dpl_darkpixellabyrinth:contentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.the_desk.dpl_darkpixellabyrinth:iconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.the_desk.dpl_darkpixellabyrinth:iconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.the_desk.dpl_darkpixellabyrinth:numericModifiers}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.the_desk.dpl_darkpixellabyrinth:showAsAction}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.the_desk.dpl_darkpixellabyrinth:tooltipText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionLayout com.dpl.dpl_darkpixellabyrinth:actionLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.dpl.dpl_darkpixellabyrinth:actionProviderClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.dpl.dpl_darkpixellabyrinth:actionViewClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.dpl.dpl_darkpixellabyrinth:alphabeticModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.dpl.dpl_darkpixellabyrinth:contentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.dpl.dpl_darkpixellabyrinth:iconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.dpl.dpl_darkpixellabyrinth:iconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.dpl.dpl_darkpixellabyrinth:numericModifiers}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.dpl.dpl_darkpixellabyrinth:showAsAction}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.dpl.dpl_darkpixellabyrinth:tooltipText}</code></td><td></td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -10251,7 +10251,7 @@ public final class R {
      */
     public static final int MenuItem_android_onClick=12;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionLayout}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionLayout}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10259,31 +10259,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionLayout
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionProviderClass}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionProviderClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionProviderClass
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#actionViewClass}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#actionViewClass}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:actionViewClass
+     * @attr name com.dpl.dpl_darkpixellabyrinth:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#alphabeticModifiers}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#alphabeticModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10300,32 +10300,32 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:alphabeticModifiers
+     * @attr name com.dpl.dpl_darkpixellabyrinth:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#contentDescription}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#contentDescription}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:contentDescription
+     * @attr name com.dpl.dpl_darkpixellabyrinth:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#iconTint}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#iconTint}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:iconTint
+     * @attr name com.dpl.dpl_darkpixellabyrinth:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#iconTintMode}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#iconTintMode}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -10342,11 +10342,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:iconTintMode
+     * @attr name com.dpl.dpl_darkpixellabyrinth:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#numericModifiers}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#numericModifiers}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10363,11 +10363,11 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:numericModifiers
+     * @attr name com.dpl.dpl_darkpixellabyrinth:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#showAsAction}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#showAsAction}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10383,17 +10383,17 @@ public final class R {
      * <tr><td>withText</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:showAsAction
+     * @attr name com.dpl.dpl_darkpixellabyrinth:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#tooltipText}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#tooltipText}
      * attribute's value can be found in the {@link #MenuItem} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:tooltipText
+     * @attr name com.dpl.dpl_darkpixellabyrinth:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -10410,8 +10410,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.the_desk.dpl_darkpixellabyrinth:preserveIconSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.the_desk.dpl_darkpixellabyrinth:subMenuArrow}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.dpl.dpl_darkpixellabyrinth:preserveIconSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.dpl.dpl_darkpixellabyrinth:subMenuArrow}</code></td><td></td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -10516,17 +10516,17 @@ public final class R {
      */
     public static final int MenuView_android_itemIconDisabledAlpha=6;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#preserveIconSpacing}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#preserveIconSpacing}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:preserveIconSpacing
+     * @attr name com.dpl.dpl_darkpixellabyrinth:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#subMenuArrow}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#subMenuArrow}
      * attribute's value can be found in the {@link #MenuView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10534,7 +10534,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:subMenuArrow
+     * @attr name com.dpl.dpl_darkpixellabyrinth:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -10546,7 +10546,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.the_desk.dpl_darkpixellabyrinth:overlapAnchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.dpl.dpl_darkpixellabyrinth:overlapAnchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -10583,13 +10583,13 @@ public final class R {
      */
     public static final int PopupWindow_android_popupAnimationStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#overlapAnchor}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#overlapAnchor}
      * attribute's value can be found in the {@link #PopupWindow} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:overlapAnchor
+     * @attr name com.dpl.dpl_darkpixellabyrinth:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -10599,7 +10599,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.the_desk.dpl_darkpixellabyrinth:state_above_anchor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.dpl.dpl_darkpixellabyrinth:state_above_anchor}</code></td><td></td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -10607,13 +10607,13 @@ public final class R {
       0x7f02010c
     };
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#state_above_anchor}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#state_above_anchor}
      * attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:state_above_anchor
+     * @attr name com.dpl.dpl_darkpixellabyrinth:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -10623,8 +10623,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.the_desk.dpl_darkpixellabyrinth:paddingBottomNoButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.the_desk.dpl_darkpixellabyrinth:paddingTopNoTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.dpl.dpl_darkpixellabyrinth:paddingBottomNoButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.dpl.dpl_darkpixellabyrinth:paddingTopNoTitle}</code></td><td></td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -10633,7 +10633,7 @@ public final class R {
       0x7f0200e6, 0x7f0200e9
     };
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#paddingBottomNoButtons}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#paddingBottomNoButtons}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10642,11 +10642,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:paddingBottomNoButtons
+     * @attr name com.dpl.dpl_darkpixellabyrinth:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#paddingTopNoTitle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#paddingTopNoTitle}
      * attribute's value can be found in the {@link #RecycleListView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -10655,7 +10655,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:paddingTopNoTitle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -10667,15 +10667,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.the_desk.dpl_darkpixellabyrinth:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.the_desk.dpl_darkpixellabyrinth:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.the_desk.dpl_darkpixellabyrinth:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.the_desk.dpl_darkpixellabyrinth:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.the_desk.dpl_darkpixellabyrinth:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager com.the_desk.dpl_darkpixellabyrinth:layoutManager}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout com.the_desk.dpl_darkpixellabyrinth:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount com.the_desk.dpl_darkpixellabyrinth:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.the_desk.dpl_darkpixellabyrinth:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.dpl.dpl_darkpixellabyrinth:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.dpl.dpl_darkpixellabyrinth:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.dpl.dpl_darkpixellabyrinth:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.dpl.dpl_darkpixellabyrinth:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.dpl.dpl_darkpixellabyrinth:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager com.dpl.dpl_darkpixellabyrinth:layoutManager}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout com.dpl.dpl_darkpixellabyrinth:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount com.dpl.dpl_darkpixellabyrinth:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.dpl.dpl_darkpixellabyrinth:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_descendantFocusability
@@ -10730,17 +10730,17 @@ public final class R {
      */
     public static final int RecyclerView_android_descendantFocusability=1;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:fastScrollEnabled
+     * @attr name com.dpl.dpl_darkpixellabyrinth:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10748,11 +10748,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:fastScrollHorizontalThumbDrawable
+     * @attr name com.dpl.dpl_darkpixellabyrinth:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=3;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10760,11 +10760,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:fastScrollHorizontalTrackDrawable
+     * @attr name com.dpl.dpl_darkpixellabyrinth:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10772,11 +10772,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:fastScrollVerticalThumbDrawable
+     * @attr name com.dpl.dpl_darkpixellabyrinth:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10784,46 +10784,46 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:fastScrollVerticalTrackDrawable
+     * @attr name com.dpl.dpl_darkpixellabyrinth:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=6;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layoutManager}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layoutManager}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layoutManager
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layoutManager
      */
     public static final int RecyclerView_layoutManager=7;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:reverseLayout
+     * @attr name com.dpl.dpl_darkpixellabyrinth:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=8;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:spanCount
+     * @attr name com.dpl.dpl_darkpixellabyrinth:spanCount
      */
     public static final int RecyclerView_spanCount=9;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:stackFromEnd
+     * @attr name com.dpl.dpl_darkpixellabyrinth:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=10;
     /**
@@ -10837,19 +10837,19 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.the_desk.dpl_darkpixellabyrinth:closeIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.the_desk.dpl_darkpixellabyrinth:commitIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.the_desk.dpl_darkpixellabyrinth:defaultQueryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.the_desk.dpl_darkpixellabyrinth:goIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.the_desk.dpl_darkpixellabyrinth:iconifiedByDefault}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.the_desk.dpl_darkpixellabyrinth:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.the_desk.dpl_darkpixellabyrinth:queryBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.the_desk.dpl_darkpixellabyrinth:queryHint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.the_desk.dpl_darkpixellabyrinth:searchHintIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.the_desk.dpl_darkpixellabyrinth:searchIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.the_desk.dpl_darkpixellabyrinth:submitBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.the_desk.dpl_darkpixellabyrinth:suggestionRowLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.the_desk.dpl_darkpixellabyrinth:voiceIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_closeIcon com.dpl.dpl_darkpixellabyrinth:closeIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.dpl.dpl_darkpixellabyrinth:commitIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.dpl.dpl_darkpixellabyrinth:defaultQueryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.dpl.dpl_darkpixellabyrinth:goIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.dpl.dpl_darkpixellabyrinth:iconifiedByDefault}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.dpl.dpl_darkpixellabyrinth:layout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.dpl.dpl_darkpixellabyrinth:queryBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.dpl.dpl_darkpixellabyrinth:queryHint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.dpl.dpl_darkpixellabyrinth:searchHintIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.dpl.dpl_darkpixellabyrinth:searchIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.dpl.dpl_darkpixellabyrinth:submitBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.dpl.dpl_darkpixellabyrinth:suggestionRowLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.dpl.dpl_darkpixellabyrinth:voiceIcon}</code></td><td></td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -10987,7 +10987,7 @@ public final class R {
      */
     public static final int SearchView_android_imeOptions=3;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#closeIcon}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#closeIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10995,11 +10995,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:closeIcon
+     * @attr name com.dpl.dpl_darkpixellabyrinth:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#commitIcon}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#commitIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11007,21 +11007,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:commitIcon
+     * @attr name com.dpl.dpl_darkpixellabyrinth:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#defaultQueryHint}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#defaultQueryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:defaultQueryHint
+     * @attr name com.dpl.dpl_darkpixellabyrinth:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#goIcon}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#goIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11029,21 +11029,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:goIcon
+     * @attr name com.dpl.dpl_darkpixellabyrinth:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#iconifiedByDefault}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#iconifiedByDefault}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:iconifiedByDefault
+     * @attr name com.dpl.dpl_darkpixellabyrinth:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#layout}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#layout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11051,11 +11051,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:layout
+     * @attr name com.dpl.dpl_darkpixellabyrinth:layout
      */
     public static final int SearchView_layout=9;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#queryBackground}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#queryBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11063,21 +11063,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:queryBackground
+     * @attr name com.dpl.dpl_darkpixellabyrinth:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#queryHint}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#queryHint}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:queryHint
+     * @attr name com.dpl.dpl_darkpixellabyrinth:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#searchHintIcon}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#searchHintIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11085,11 +11085,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:searchHintIcon
+     * @attr name com.dpl.dpl_darkpixellabyrinth:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#searchIcon}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#searchIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11097,11 +11097,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:searchIcon
+     * @attr name com.dpl.dpl_darkpixellabyrinth:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#submitBackground}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#submitBackground}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11109,11 +11109,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:submitBackground
+     * @attr name com.dpl.dpl_darkpixellabyrinth:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#suggestionRowLayout}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#suggestionRowLayout}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11121,11 +11121,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:suggestionRowLayout
+     * @attr name com.dpl.dpl_darkpixellabyrinth:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#voiceIcon}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#voiceIcon}
      * attribute's value can be found in the {@link #SearchView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11133,7 +11133,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:voiceIcon
+     * @attr name com.dpl.dpl_darkpixellabyrinth:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -11147,7 +11147,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.the_desk.dpl_darkpixellabyrinth:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Spinner_popupTheme com.dpl.dpl_darkpixellabyrinth:popupTheme}</code></td><td></td></tr>
      * </table>
      * @see #Spinner_android_entries
      * @see #Spinner_android_popupBackground
@@ -11222,7 +11222,7 @@ public final class R {
      */
     public static final int Spinner_android_dropDownWidth=3;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Spinner} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11230,7 +11230,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:popupTheme
+     * @attr name com.dpl.dpl_darkpixellabyrinth:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -11243,17 +11243,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.the_desk.dpl_darkpixellabyrinth:showText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.the_desk.dpl_darkpixellabyrinth:splitTrack}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.the_desk.dpl_darkpixellabyrinth:switchMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.the_desk.dpl_darkpixellabyrinth:switchPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.the_desk.dpl_darkpixellabyrinth:switchTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.the_desk.dpl_darkpixellabyrinth:thumbTextPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.the_desk.dpl_darkpixellabyrinth:thumbTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.the_desk.dpl_darkpixellabyrinth:thumbTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.the_desk.dpl_darkpixellabyrinth:track}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.the_desk.dpl_darkpixellabyrinth:trackTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.the_desk.dpl_darkpixellabyrinth:trackTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.dpl.dpl_darkpixellabyrinth:showText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.dpl.dpl_darkpixellabyrinth:splitTrack}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.dpl.dpl_darkpixellabyrinth:switchMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.dpl.dpl_darkpixellabyrinth:switchPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.dpl.dpl_darkpixellabyrinth:switchTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.dpl.dpl_darkpixellabyrinth:thumbTextPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.dpl.dpl_darkpixellabyrinth:thumbTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.dpl.dpl_darkpixellabyrinth:thumbTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.dpl.dpl_darkpixellabyrinth:track}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.dpl.dpl_darkpixellabyrinth:trackTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.dpl.dpl_darkpixellabyrinth:trackTintMode}</code></td><td></td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -11309,27 +11309,27 @@ public final class R {
      */
     public static final int SwitchCompat_android_thumb=2;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#showText}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#showText}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:showText
+     * @attr name com.dpl.dpl_darkpixellabyrinth:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#splitTrack}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#splitTrack}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:splitTrack
+     * @attr name com.dpl.dpl_darkpixellabyrinth:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#switchMinWidth}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#switchMinWidth}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11338,11 +11338,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:switchMinWidth
+     * @attr name com.dpl.dpl_darkpixellabyrinth:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#switchPadding}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#switchPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11351,11 +11351,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:switchPadding
+     * @attr name com.dpl.dpl_darkpixellabyrinth:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#switchTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#switchTextAppearance}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11363,11 +11363,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:switchTextAppearance
+     * @attr name com.dpl.dpl_darkpixellabyrinth:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#thumbTextPadding}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#thumbTextPadding}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11376,22 +11376,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:thumbTextPadding
+     * @attr name com.dpl.dpl_darkpixellabyrinth:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#thumbTint}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#thumbTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:thumbTint
+     * @attr name com.dpl.dpl_darkpixellabyrinth:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#thumbTintMode}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#thumbTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11408,11 +11408,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:thumbTintMode
+     * @attr name com.dpl.dpl_darkpixellabyrinth:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#track}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#track}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11420,22 +11420,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:track
+     * @attr name com.dpl.dpl_darkpixellabyrinth:track
      */
     public static final int SwitchCompat_track=11;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#trackTint}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#trackTint}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:trackTint
+     * @attr name com.dpl.dpl_darkpixellabyrinth:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#trackTintMode}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#trackTintMode}
      * attribute's value can be found in the {@link #SwitchCompat} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -11452,7 +11452,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:trackTintMode
+     * @attr name com.dpl.dpl_darkpixellabyrinth:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -11473,8 +11473,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.the_desk.dpl_darkpixellabyrinth:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.the_desk.dpl_darkpixellabyrinth:textAllCaps}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.dpl.dpl_darkpixellabyrinth:fontFamily}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.dpl.dpl_darkpixellabyrinth:textAllCaps}</code></td><td></td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -11640,17 +11640,17 @@ public final class R {
      */
     public static final int TextAppearance_android_fontFamily=10;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#fontFamily}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#fontFamily}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:fontFamily
+     * @attr name com.dpl.dpl_darkpixellabyrinth:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#textAllCaps}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#textAllCaps}
      * attribute's value can be found in the {@link #TextAppearance} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11660,7 +11660,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:textAllCaps
+     * @attr name com.dpl.dpl_darkpixellabyrinth:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -11672,33 +11672,33 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.the_desk.dpl_darkpixellabyrinth:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.the_desk.dpl_darkpixellabyrinth:collapseContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.the_desk.dpl_darkpixellabyrinth:collapseIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.the_desk.dpl_darkpixellabyrinth:contentInsetEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.the_desk.dpl_darkpixellabyrinth:contentInsetEndWithActions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.the_desk.dpl_darkpixellabyrinth:contentInsetLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.the_desk.dpl_darkpixellabyrinth:contentInsetRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.the_desk.dpl_darkpixellabyrinth:contentInsetStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.the_desk.dpl_darkpixellabyrinth:contentInsetStartWithNavigation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.the_desk.dpl_darkpixellabyrinth:logo}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.the_desk.dpl_darkpixellabyrinth:logoDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.the_desk.dpl_darkpixellabyrinth:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.the_desk.dpl_darkpixellabyrinth:navigationContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.the_desk.dpl_darkpixellabyrinth:navigationIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.the_desk.dpl_darkpixellabyrinth:popupTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.the_desk.dpl_darkpixellabyrinth:subtitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.the_desk.dpl_darkpixellabyrinth:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.the_desk.dpl_darkpixellabyrinth:subtitleTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.the_desk.dpl_darkpixellabyrinth:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.the_desk.dpl_darkpixellabyrinth:titleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.the_desk.dpl_darkpixellabyrinth:titleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.the_desk.dpl_darkpixellabyrinth:titleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.the_desk.dpl_darkpixellabyrinth:titleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.the_desk.dpl_darkpixellabyrinth:titleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.the_desk.dpl_darkpixellabyrinth:titleMargins}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.the_desk.dpl_darkpixellabyrinth:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.the_desk.dpl_darkpixellabyrinth:titleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.dpl.dpl_darkpixellabyrinth:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.dpl.dpl_darkpixellabyrinth:collapseContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.dpl.dpl_darkpixellabyrinth:collapseIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.dpl.dpl_darkpixellabyrinth:contentInsetEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.dpl.dpl_darkpixellabyrinth:contentInsetEndWithActions}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.dpl.dpl_darkpixellabyrinth:contentInsetLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.dpl.dpl_darkpixellabyrinth:contentInsetRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.dpl.dpl_darkpixellabyrinth:contentInsetStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.dpl.dpl_darkpixellabyrinth:contentInsetStartWithNavigation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logo com.dpl.dpl_darkpixellabyrinth:logo}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.dpl.dpl_darkpixellabyrinth:logoDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.dpl.dpl_darkpixellabyrinth:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.dpl.dpl_darkpixellabyrinth:navigationContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.dpl.dpl_darkpixellabyrinth:navigationIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_popupTheme com.dpl.dpl_darkpixellabyrinth:popupTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitle com.dpl.dpl_darkpixellabyrinth:subtitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.dpl.dpl_darkpixellabyrinth:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.dpl.dpl_darkpixellabyrinth:subtitleTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.dpl.dpl_darkpixellabyrinth:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.dpl.dpl_darkpixellabyrinth:titleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.dpl.dpl_darkpixellabyrinth:titleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.dpl.dpl_darkpixellabyrinth:titleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.dpl.dpl_darkpixellabyrinth:titleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.dpl.dpl_darkpixellabyrinth:titleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.dpl.dpl_darkpixellabyrinth:titleMargins}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.dpl.dpl_darkpixellabyrinth:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.dpl.dpl_darkpixellabyrinth:titleTextColor}</code></td><td></td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -11783,7 +11783,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -11796,21 +11796,21 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:buttonGravity
+     * @attr name com.dpl.dpl_darkpixellabyrinth:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#collapseContentDescription}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#collapseContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:collapseContentDescription
+     * @attr name com.dpl.dpl_darkpixellabyrinth:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#collapseIcon}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#collapseIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11818,11 +11818,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:collapseIcon
+     * @attr name com.dpl.dpl_darkpixellabyrinth:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#contentInsetEnd}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#contentInsetEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11831,11 +11831,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:contentInsetEnd
+     * @attr name com.dpl.dpl_darkpixellabyrinth:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#contentInsetEndWithActions}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#contentInsetEndWithActions}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11844,11 +11844,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:contentInsetEndWithActions
+     * @attr name com.dpl.dpl_darkpixellabyrinth:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#contentInsetLeft}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#contentInsetLeft}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11857,11 +11857,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:contentInsetLeft
+     * @attr name com.dpl.dpl_darkpixellabyrinth:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#contentInsetRight}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#contentInsetRight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11870,11 +11870,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:contentInsetRight
+     * @attr name com.dpl.dpl_darkpixellabyrinth:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#contentInsetStart}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#contentInsetStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11883,11 +11883,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:contentInsetStart
+     * @attr name com.dpl.dpl_darkpixellabyrinth:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#contentInsetStartWithNavigation}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#contentInsetStartWithNavigation}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11896,11 +11896,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:contentInsetStartWithNavigation
+     * @attr name com.dpl.dpl_darkpixellabyrinth:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#logo}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#logo}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11908,21 +11908,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:logo
+     * @attr name com.dpl.dpl_darkpixellabyrinth:logo
      */
     public static final int Toolbar_logo=11;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#logoDescription}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#logoDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:logoDescription
+     * @attr name com.dpl.dpl_darkpixellabyrinth:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -11931,21 +11931,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:maxButtonHeight
+     * @attr name com.dpl.dpl_darkpixellabyrinth:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#navigationContentDescription}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#navigationContentDescription}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:navigationContentDescription
+     * @attr name com.dpl.dpl_darkpixellabyrinth:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#navigationIcon}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#navigationIcon}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11953,11 +11953,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:navigationIcon
+     * @attr name com.dpl.dpl_darkpixellabyrinth:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#popupTheme}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#popupTheme}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11965,21 +11965,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:popupTheme
+     * @attr name com.dpl.dpl_darkpixellabyrinth:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#subtitle}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#subtitle}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:subtitle
+     * @attr name com.dpl.dpl_darkpixellabyrinth:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11987,32 +11987,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:subtitleTextAppearance
+     * @attr name com.dpl.dpl_darkpixellabyrinth:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#subtitleTextColor}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#subtitleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:subtitleTextColor
+     * @attr name com.dpl.dpl_darkpixellabyrinth:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:title
+     * @attr name com.dpl.dpl_darkpixellabyrinth:title
      */
     public static final int Toolbar_title=20;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#titleMargin}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#titleMargin}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12021,11 +12021,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:titleMargin
+     * @attr name com.dpl.dpl_darkpixellabyrinth:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#titleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#titleMarginBottom}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12034,11 +12034,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:titleMarginBottom
+     * @attr name com.dpl.dpl_darkpixellabyrinth:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#titleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#titleMarginEnd}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12047,11 +12047,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:titleMarginEnd
+     * @attr name com.dpl.dpl_darkpixellabyrinth:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#titleMarginStart}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#titleMarginStart}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12060,11 +12060,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:titleMarginStart
+     * @attr name com.dpl.dpl_darkpixellabyrinth:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#titleMarginTop}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#titleMarginTop}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12073,11 +12073,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:titleMarginTop
+     * @attr name com.dpl.dpl_darkpixellabyrinth:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#titleMargins}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#titleMargins}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12086,11 +12086,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:titleMargins
+     * @attr name com.dpl.dpl_darkpixellabyrinth:titleMargins
      */
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12098,18 +12098,18 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:titleTextAppearance
+     * @attr name com.dpl.dpl_darkpixellabyrinth:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#titleTextColor}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#titleTextColor}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:titleTextColor
+     * @attr name com.dpl.dpl_darkpixellabyrinth:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -12121,9 +12121,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.the_desk.dpl_darkpixellabyrinth:paddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.the_desk.dpl_darkpixellabyrinth:paddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_theme com.the_desk.dpl_darkpixellabyrinth:theme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.dpl.dpl_darkpixellabyrinth:paddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.dpl.dpl_darkpixellabyrinth:paddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #View_theme com.dpl.dpl_darkpixellabyrinth:theme}</code></td><td></td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -12166,7 +12166,7 @@ public final class R {
      */
     public static final int View_android_focusable=1;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#paddingEnd}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#paddingEnd}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12175,11 +12175,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:paddingEnd
+     * @attr name com.dpl.dpl_darkpixellabyrinth:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#paddingStart}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#paddingStart}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12188,11 +12188,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:paddingStart
+     * @attr name com.dpl.dpl_darkpixellabyrinth:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#theme}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#theme}
      * attribute's value can be found in the {@link #View} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12200,7 +12200,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:theme
+     * @attr name com.dpl.dpl_darkpixellabyrinth:theme
      */
     public static final int View_theme=4;
     /**
@@ -12211,8 +12211,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.the_desk.dpl_darkpixellabyrinth:backgroundTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.the_desk.dpl_darkpixellabyrinth:backgroundTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.dpl.dpl_darkpixellabyrinth:backgroundTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.dpl.dpl_darkpixellabyrinth:backgroundTintMode}</code></td><td></td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -12237,18 +12237,18 @@ public final class R {
      */
     public static final int ViewBackgroundHelper_android_background=0;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#backgroundTint}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#backgroundTint}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:backgroundTint
+     * @attr name com.dpl.dpl_darkpixellabyrinth:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.the_desk.dpl_darkpixellabyrinth.R.attr#backgroundTintMode}
+     * <p>This symbol is the offset where the {@link com.dpl.dpl_darkpixellabyrinth.R.attr#backgroundTintMode}
      * attribute's value can be found in the {@link #ViewBackgroundHelper} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12265,7 +12265,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.the_desk.dpl_darkpixellabyrinth:backgroundTintMode
+     * @attr name com.dpl.dpl_darkpixellabyrinth:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**

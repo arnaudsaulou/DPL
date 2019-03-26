@@ -1,22 +1,22 @@
 package com.darkpixellabyrinth.dpl;
 
 import android.content.Context;
+import android.content.SharedPreferences;
 import android.graphics.Canvas;
-import android.util.Log;
 import android.view.View;
 
-import com.darkpixellabyrinth.dpl.Positions.ScreenPosition;
+import static com.darkpixellabyrinth.dpl.Constants.USER_DATA;
 
 public class GameBoard extends View {
 
-    private Context mContext;
+    private Context context;
     private PixelCharacter pixelCharacter;
     private DrawPaths drawPaths;
     private Level level;
 
     public GameBoard(Context context, Level level) {
         super(context);
-        this.mContext = context;
+        this.context = context;
         this.level = level;
         initGame(level);
     }
@@ -29,13 +29,20 @@ public class GameBoard extends View {
     }
 
     private void initGame(Level level) {
-        pixelCharacter = new PixelCharacter(mContext, new ScreenPosition(0, 0));
+        SharedPreferences sharedPreferences = this.context.getSharedPreferences(USER_DATA, Context.MODE_PRIVATE);
+
+        pixelCharacter = new PixelCharacter(context, new Position(
+                context,
+                sharedPreferences.getInt("centerX", 0),
+                sharedPreferences.getInt("centerY", 0)));
+
         pixelCharacter.setActualPathBranch(level.getStartPathBranch());
-        drawPaths = new DrawPaths(mContext, new ScreenPosition(0, 0), level);
+
+        drawPaths = new DrawPaths(context, level);
     }
 
     public void goUp() {
-        if (this.pixelCharacter.getActualPathBranch().getPositionMax().getY() > this.pixelCharacter.getPosition().getY()) {
+        /*if (this.pixelCharacter.getActualPathBranch().getPositionMax().getY() > this.pixelCharacter.getPosition().getY()) {
             Intersection nextIntersection = this.pixelCharacter.getActualPathBranch().getNextIntersectionUp(this.pixelCharacter.getPosition());
 
             Log.d("nextIntersection", String.valueOf(nextIntersection));
@@ -49,11 +56,11 @@ public class GameBoard extends View {
                     Log.d("ActualPathBranch", String.valueOf(this.pixelCharacter.getActualPathBranch()));
                 }
             }
-        }
+        }*/
     }
 
     public void goDown() {
-        if (this.pixelCharacter.getActualPathBranch().getPositionMin().getY() < this.pixelCharacter.getPosition().getY()) {
+        /*if (this.pixelCharacter.getActualPathBranch().getPositionMin().getY() < this.pixelCharacter.getPosition().getY()) {
             Intersection nextIntersection = this.pixelCharacter.getActualPathBranch().getNextIntersectionDown(this.pixelCharacter.getPosition());
 
             Log.d("nextIntersection", String.valueOf(nextIntersection));
@@ -67,11 +74,11 @@ public class GameBoard extends View {
                     Log.d("ActualPathBranch", String.valueOf(this.pixelCharacter.getActualPathBranch()));
                 }
             }
-        }
+        }*/
     }
 
     public void goRigth() {
-        if (this.pixelCharacter.getActualPathBranch().getPositionMax().getX() > this.pixelCharacter.getPosition().getX()) {
+       /* if (this.pixelCharacter.getActualPathBranch().getPositionMax().getX() > this.pixelCharacter.getPosition().getX()) {
 
             Intersection nextIntersection = this.pixelCharacter.getActualPathBranch().getNextIntersectionRight(this.pixelCharacter.getPosition());
 
@@ -87,11 +94,11 @@ public class GameBoard extends View {
                 }
             }
 
-        }
+        }*/
     }
 
     public void goLeft() {
-        if (this.pixelCharacter.getActualPathBranch().getPositionMin().getX() < this.pixelCharacter.getPosition().getX()) {
+        /*if (this.pixelCharacter.getActualPathBranch().getPositionMin().getX() < this.pixelCharacter.getPosition().getX()) {
             Intersection nextIntersection = this.pixelCharacter.getActualPathBranch().getNextIntersectionLeft(this.pixelCharacter.getPosition());
 
             Log.d("nextIntersection", String.valueOf(nextIntersection));
@@ -106,6 +113,6 @@ public class GameBoard extends View {
 
                 }
             }
-        }
+        }*/
     }
 }

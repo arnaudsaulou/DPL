@@ -5,19 +5,17 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.graphics.Point;
 import android.os.Bundle;
-import android.preference.PreferenceManager;
 import android.support.v7.app.AppCompatActivity;
 import android.view.Display;
 import android.view.View;
 import android.widget.Button;
 
+import static com.darkpixellabyrinth.dpl.Constants.NB_COLUMNS;
+import static com.darkpixellabyrinth.dpl.Constants.USER_DATA;
+
 public class StartMenu extends AppCompatActivity {
 
-    private static final int NB_COLUMNS = 21;
-
-
-    Button options, multi, solo;
-    static Context contextOfApplication;
+    private Button options, multi, solo;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,47 +26,55 @@ public class StartMenu extends AppCompatActivity {
 
         setOnClick();
 
-        contextOfApplication = this;
+        SharedPreferences sharedPreferences = this.getSharedPreferences(USER_DATA, Context.MODE_PRIVATE);
 
-        SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
+        SharedPreferences.Editor editor = sharedPreferences.edit();
 
-        if (!prefs.getBoolean("firstTime", false)) {
-            SharedPreferences.Editor editor = prefs.edit();
+        Display display = getWindowManager().getDefaultDisplay();
+        Point size = new Point();
+        display.getSize(size);
 
-            Display display = getWindowManager().getDefaultDisplay();
-            Point size = new Point();
-            display.getSize(size);
-
-            int division = size.x / NB_COLUMNS;
-            if (division % 2 == 0) {
-                editor.putInt("boxSize", division);
-            } else {
-                editor.putInt("boxSize", division + 1);
-            }
-
-            editor.putInt("screenDimensionsX", size.x);
-            editor.putInt("screenDimensionsY", size.y);
-            editor.putBoolean("firstTime", true);
-            editor.apply();
+        //Calculation character'size
+        int division = size.x / NB_COLUMNS;
+        int boxSize;
+        if (division % 2 == 0) {
+            boxSize = division;
+        } else {
+            boxSize = division + 1;
         }
+
+        //Calculation centre X of the game
+        int screenX = size.x;
+        int centerX = (screenX / 2) / boxSize;
+
+        //Calculation centre Y of the game
+        int screenY = size.y;
+        int centerY = (screenY / 2) / boxSize;
+
+        //Save useful parameters
+        editor.putInt("boxSize", boxSize);
+        editor.putInt("centerX", centerX);
+        editor.putInt("centerY", centerY);
+        editor.apply();
     }
 
+
     private void setOnClick() {
-        options.setOnClickListener(new View.OnClickListener() {
+        this.options.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
             }
         });
 
-        multi.setOnClickListener(new View.OnClickListener() {
+        this.multi.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
             }
         });
 
-        solo.setOnClickListener(new View.OnClickListener() {
+        this.solo.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(StartMenu.this, SoloMode.class);
@@ -78,12 +84,8 @@ public class StartMenu extends AppCompatActivity {
     }
 
     private void getViews() {
-        options = findViewById(R.id.options);
-        multi = findViewById(R.id.multi);
-        solo = findViewById(R.id.solo);
-    }
-
-    public static Context getContextOfApplication() {
-        return contextOfApplication;
+        this.options = findViewById(R.id.options);
+        this.multi = findViewById(R.id.multi);
+        this.solo = findViewById(R.id.solo);
     }
 }

@@ -5,45 +5,37 @@ import android.content.SharedPreferences;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.Rect;
-import android.preference.PreferenceManager;
 import android.view.View;
 
-import com.darkpixellabyrinth.dpl.Positions.Position;
-import com.darkpixellabyrinth.dpl.Positions.ScreenPosition;
+import static com.darkpixellabyrinth.dpl.Constants.USER_DATA;
 
 class PixelCharacter extends View {
 
-    private ScreenPosition screenPosition;
+    private Context context;
     private Position position;
     private PathBranch actualPathBranch;
     private Paint paint;
     private Rect character;
 
-    public PixelCharacter(Context context){
+    public PixelCharacter(Context context) {
         super(context);
     }
 
-    public PixelCharacter(Context context, ScreenPosition screenPosition) {
+    public PixelCharacter(Context context, Position position) {
         super(context);
-        this.screenPosition = screenPosition;
+        this.context = context;
+        this.position = position;
         this.paint = new Paint();
 
-        SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(StartMenu.getContextOfApplication());
+        SharedPreferences sharedPreferences = context.getSharedPreferences(USER_DATA, Context.MODE_PRIVATE);
+
         this.character = new Rect(
-                screenPosition.getX(),
-                screenPosition.getY(),
-                screenPosition.getX() + prefs.getInt("boxSize", 0),
-                screenPosition.getY() + prefs.getInt("boxSize", 0));
+                position.getxScreen(),
+                position.getyScreen(),
+                position.getxScreen() + sharedPreferences.getInt("boxSize", 0),
+                position.getyScreen() + sharedPreferences.getInt("boxSize", 0));
 
-        this.position = new Position(0, 0);
-    }
-
-    public ScreenPosition getScreenPosition() {
-        return screenPosition;
-    }
-
-    public void setScreenPosition(ScreenPosition screenPosition) {
-        this.screenPosition = screenPosition;
+        this.position = new Position(context, 0, 0);
     }
 
     public Position getPosition() {
@@ -55,19 +47,19 @@ class PixelCharacter extends View {
     }
 
     public void moveUp() {
-        this.setPosition(new Position(this.getPosition().getX(), this.getPosition().getY() + 1));
+        this.setPosition(new Position(this.context, this.getPosition().getX(), this.getPosition().getY() + 1));
     }
 
     public void moveDown() {
-        this.setPosition(new Position(this.getPosition().getX(), this.getPosition().getY() - 1));
+        this.setPosition(new Position(this.context, this.getPosition().getX(), this.getPosition().getY() - 1));
     }
 
     public void moveRight() {
-        this.setPosition(new Position(this.getPosition().getX() + 1, this.getPosition().getY()));
+        this.setPosition(new Position(this.context, this.getPosition().getX() + 1, this.getPosition().getY()));
     }
 
     public void moveLeft() {
-        this.setPosition(new Position(this.getPosition().getX() - 1, this.getPosition().getY()));
+        this.setPosition(new Position(this.context, this.getPosition().getX() - 1, this.getPosition().getY()));
     }
 
     public PathBranch getActualPathBranch() {
@@ -87,10 +79,4 @@ class PixelCharacter extends View {
         canvas.drawRect(character, paint);
     }
 
-    @Override
-    public String toString() {
-        return "PixelCharacter{" +
-                "screenPosition=" + screenPosition +
-                '}';
-    }
 }
