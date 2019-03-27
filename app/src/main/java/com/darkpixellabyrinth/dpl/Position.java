@@ -54,6 +54,22 @@ public class Position {
     }
 
     @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || this.getClass() != o.getClass()) return false;
+
+        Position position = (Position) o;
+        return this.getX() == position.getX() && this.getY() == position.getY();
+    }
+
+    @Override
+    public int hashCode() {
+        int result = x;
+        result = 31 * result + y;
+        return result;
+    }
+
+    @Override
     public String toString() {
         return "Position{" +
                 "x=" + x +

@@ -13,9 +13,9 @@ class PixelCharacter extends View {
 
     private Context context;
     private Position position;
-    private PathBranch actualPathBranch;
     private Paint paint;
     private Rect character;
+    private Floor actualFloor;
 
     public PixelCharacter(Context context) {
         super(context);
@@ -31,11 +31,9 @@ class PixelCharacter extends View {
 
         this.character = new Rect(
                 position.getxScreen(),
-                position.getyScreen(),
+                position.getyScreen() - + sharedPreferences.getInt("boxSize", 0),
                 position.getxScreen() + sharedPreferences.getInt("boxSize", 0),
-                position.getyScreen() + sharedPreferences.getInt("boxSize", 0));
-
-        this.position = new Position(context, 0, 0);
+                position.getyScreen() );
     }
 
     public Position getPosition() {
@@ -47,11 +45,11 @@ class PixelCharacter extends View {
     }
 
     public void moveUp() {
-        this.setPosition(new Position(this.context, this.getPosition().getX(), this.getPosition().getY() + 1));
+        this.setPosition(new Position(this.context, this.getPosition().getX(), this.getPosition().getY() - 1));
     }
 
     public void moveDown() {
-        this.setPosition(new Position(this.context, this.getPosition().getX(), this.getPosition().getY() - 1));
+        this.setPosition(new Position(this.context, this.getPosition().getX(), this.getPosition().getY() + 1));
     }
 
     public void moveRight() {
@@ -62,12 +60,12 @@ class PixelCharacter extends View {
         this.setPosition(new Position(this.context, this.getPosition().getX() - 1, this.getPosition().getY()));
     }
 
-    public PathBranch getActualPathBranch() {
-        return actualPathBranch;
+    public Floor getActualFloor() {
+        return actualFloor;
     }
 
-    public void setActualPathBranch(PathBranch actualPathBranch) {
-        this.actualPathBranch = actualPathBranch;
+    public void setActualFloor(Floor actualFloor) {
+        this.actualFloor = actualFloor;
     }
 
     @Override

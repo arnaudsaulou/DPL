@@ -12,107 +12,102 @@ public class GameBoard extends View {
     private Context context;
     private PixelCharacter pixelCharacter;
     private DrawPaths drawPaths;
-    private Level level;
 
     public GameBoard(Context context, Level level) {
         super(context);
         this.context = context;
-        this.level = level;
         initGame(level);
     }
 
     @Override
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
-        drawPaths.draw(canvas);
-        pixelCharacter.draw(canvas);
+        this.drawPaths.draw(canvas);
+        this.pixelCharacter.draw(canvas);
     }
 
     private void initGame(Level level) {
         SharedPreferences sharedPreferences = this.context.getSharedPreferences(USER_DATA, Context.MODE_PRIVATE);
 
-        pixelCharacter = new PixelCharacter(context, new Position(
+        this.pixelCharacter = new PixelCharacter(context, new Position(
                 context,
                 sharedPreferences.getInt("centerX", 0),
                 sharedPreferences.getInt("centerY", 0)));
 
-        pixelCharacter.setActualPathBranch(level.getStartPathBranch());
+        if (level.getStartPathBranch().getStartPosition().equals(this.pixelCharacter.getPosition())) {
+            this.pixelCharacter.setActualFloor(level.getStartPathBranch());
+        } else {
+            throw new IllegalStateException("The character doesn't start on a coherent path");
+        }
 
-        drawPaths = new DrawPaths(context, level);
+        this.drawPaths = new DrawPaths(context, level);
     }
 
+    //Check possible movements//
+
+    private boolean canMoveUp() {
+        return this.pixelCharacter.getActualFloor().getDirectionEnable().contains(Direction.UP) &&
+                (this.pixelCharacter.getActualFloor().getEndPosition().getY() + 1 < this.pixelCharacter.getPosition().getY() &&
+                        this.pixelCharacter.getActualFloor().getStartPosition().getY() >= this.pixelCharacter.getPosition().getY())
+                ||
+                (this.pixelCharacter.getActualFloor().getStartPosition().getY() + 1 <= this.pixelCharacter.getPosition().getY() &&
+                        this.pixelCharacter.getActualFloor().getEndPosition().getY() >= this.pixelCharacter.getPosition().getY());
+    }
+
+    private boolean canMoveDown() {
+        return this.pixelCharacter.getActualFloor().getDirectionEnable().contains(Direction.DOWN) &&
+                (this.pixelCharacter.getActualFloor().getStartPosition().getY() > this.pixelCharacter.getPosition().getY() &&
+                        this.pixelCharacter.getActualFloor().getEndPosition().getY() <= this.pixelCharacter.getPosition().getY())
+                ||
+                (this.pixelCharacter.getActualFloor().getEndPosition().getY() - 1 > this.pixelCharacter.getPosition().getY() &&
+                        this.pixelCharacter.getActualFloor().getStartPosition().getY() <= this.pixelCharacter.getPosition().getY());
+    }
+
+    private boolean canMoveRight() {
+        return this.pixelCharacter.getActualFloor().getDirectionEnable().contains(Direction.RIGHT) &&
+                (this.pixelCharacter.getActualFloor().getEndPosition().getX() - 1 > this.pixelCharacter.getPosition().getX() &&
+                        this.pixelCharacter.getActualFloor().getStartPosition().getX() <= this.pixelCharacter.getPosition().getX())
+                ||
+                (this.pixelCharacter.getActualFloor().getStartPosition().getX() > this.pixelCharacter.getPosition().getX() &&
+                        this.pixelCharacter.getActualFloor().getEndPosition().getX() <= this.pixelCharacter.getPosition().getX());
+    }
+
+    private boolean canMoveLeft() {
+        return this.pixelCharacter.getActualFloor().getDirectionEnable().contains(Direction.LEFT) &&
+                (this.pixelCharacter.getActualFloor().getStartPosition().getX() >= this.pixelCharacter.getPosition().getX() &&
+                        this.pixelCharacter.getActualFloor().getEndPosition().getX() + 1 < this.pixelCharacter.getPosition().getX())
+                ||
+                (this.pixelCharacter.getActualFloor().getEndPosition().getX() > this.pixelCharacter.getPosition().getX() &&
+                        this.pixelCharacter.getActualFloor().getStartPosition().getX() + 1 <= this.pixelCharacter.getPosition().getX());
+    }
+
+    //Movements//
+
     public void goUp() {
-        /*if (this.pixelCharacter.getActualPathBranch().getPositionMax().getY() > this.pixelCharacter.getPosition().getY()) {
-            Intersection nextIntersection = this.pixelCharacter.getActualPathBranch().getNextIntersectionUp(this.pixelCharacter.getPosition());
-
-            Log.d("nextIntersection", String.valueOf(nextIntersection));
-
+        if (canMoveUp()) {
             this.pixelCharacter.moveUp();
             this.drawPaths.moveUP();
-
-            if (nextIntersection != null) {
-                if (this.pixelCharacter.getPosition().getY() == nextIntersection.getIntersectionPosition().getY()) {
-                    this.pixelCharacter.setActualPathBranch(nextIntersection.getPathBranch());
-                    Log.d("ActualPathBranch", String.valueOf(this.pixelCharacter.getActualPathBranch()));
-                }
-            }
-        }*/
+        }
     }
 
     public void goDown() {
-        /*if (this.pixelCharacter.getActualPathBranch().getPositionMin().getY() < this.pixelCharacter.getPosition().getY()) {
-            Intersection nextIntersection = this.pixelCharacter.getActualPathBranch().getNextIntersectionDown(this.pixelCharacter.getPosition());
-
-            Log.d("nextIntersection", String.valueOf(nextIntersection));
-
+        if (canMoveDown()) {
             this.pixelCharacter.moveDown();
             this.drawPaths.moveDown();
-
-            if (nextIntersection != null) {
-                if (this.pixelCharacter.getPosition().getY() == nextIntersection.getIntersectionPosition().getY()) {
-                    this.pixelCharacter.setActualPathBranch(nextIntersection.getPathBranch());
-                    Log.d("ActualPathBranch", String.valueOf(this.pixelCharacter.getActualPathBranch()));
-                }
-            }
-        }*/
+        }
     }
 
     public void goRigth() {
-       /* if (this.pixelCharacter.getActualPathBranch().getPositionMax().getX() > this.pixelCharacter.getPosition().getX()) {
-
-            Intersection nextIntersection = this.pixelCharacter.getActualPathBranch().getNextIntersectionRight(this.pixelCharacter.getPosition());
-
-            Log.d("nextIntersection", String.valueOf(nextIntersection));
-
+        if (canMoveRight()) {
             this.pixelCharacter.moveRight();
             this.drawPaths.moveRight();
-
-            if (nextIntersection != null) {
-                if (this.pixelCharacter.getPosition().getX() == nextIntersection.getIntersectionPosition().getX()) {
-                    this.pixelCharacter.setActualPathBranch(nextIntersection.getPathBranch());
-                    Log.d("ActualPathBranch", String.valueOf(this.pixelCharacter.getActualPathBranch()));
-                }
-            }
-
-        }*/
+        }
     }
 
     public void goLeft() {
-        /*if (this.pixelCharacter.getActualPathBranch().getPositionMin().getX() < this.pixelCharacter.getPosition().getX()) {
-            Intersection nextIntersection = this.pixelCharacter.getActualPathBranch().getNextIntersectionLeft(this.pixelCharacter.getPosition());
-
-            Log.d("nextIntersection", String.valueOf(nextIntersection));
-
+        if (canMoveLeft()) {
             this.pixelCharacter.moveLeft();
             this.drawPaths.moveLeft();
-
-            if (nextIntersection != null) {
-                if (this.pixelCharacter.getPosition().getX() == nextIntersection.getIntersectionPosition().getX()) {
-                    this.pixelCharacter.setActualPathBranch(nextIntersection.getPathBranch());
-                    Log.d("ActualPathBranch", String.valueOf(this.pixelCharacter.getActualPathBranch()));
-
-                }
-            }
-        }*/
+        }
     }
 }

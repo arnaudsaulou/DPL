@@ -16,19 +16,17 @@ class DrawPaths extends View {
     private Paint paint;
     private ArrayList<Rect> pathView = new ArrayList<>();
     private int boxSize;
-    private Level level;
 
     public DrawPaths(Context context, Level level) {
         super(context);
-        this.level = level;
 
         SharedPreferences sharedPreferences = context.getSharedPreferences(USER_DATA, Context.MODE_PRIVATE);
         this.boxSize = sharedPreferences.getInt("boxSize", 0);
 
         this.paint = new Paint();
 
-        if (this.level != null && this.level.getPathBranches() != null) {
-            for (PathBranch pathBranch : this.level.getPathBranches()) {
+        if (level != null && level.getPathBranches() != null) {
+            for (PathBranch pathBranch : level.getPathBranches()) {
 
                 switch (pathBranch.getDirection()) {
                     case LEFT:
@@ -81,43 +79,35 @@ class DrawPaths extends View {
 
 
     private void createPathUp(int length, Position start) {
-        //start : coin haut gauche
         this.pathView.add(new Rect(
                 start.getxScreen(),
                 start.getyScreen() - length * this.boxSize,
                 start.getxScreen() + this.boxSize,
                 start.getyScreen()));
-
     }
 
     private void createPathDown(int length, Position start) {
-        //start : coin haut gauche
         this.pathView.add(new Rect(
                 start.getxScreen(),
-                start.getyScreen(),
+                start.getyScreen() - this.boxSize,
                 start.getxScreen() + this.boxSize,
-                start.getyScreen() + length * this.boxSize));
-
+                start.getyScreen() + (length - 1) * this.boxSize));
     }
 
     private void createPathRight(int length, Position start) {
-        //start : coin haut gauche
         this.pathView.add(new Rect(
                 start.getxScreen(),
-                start.getyScreen(),
+                start.getyScreen() - this.boxSize,
                 start.getxScreen() + length * this.boxSize,
-                start.getyScreen() + this.boxSize));
-
+                start.getyScreen()));
     }
 
     private void createPathLeft(int length, Position start) {
-        //start : coin haut gauche
         this.pathView.add(new Rect(
-                start.getxScreen() - length * this.boxSize,
-                start.getyScreen(),
-                start.getxScreen(),
-                start.getyScreen() + this.boxSize));
-
+                start.getxScreen() - (length - 1) * this.boxSize,
+                start.getyScreen() - this.boxSize,
+                start.getxScreen() + this.boxSize,
+                start.getyScreen()));
     }
 
     @Override
