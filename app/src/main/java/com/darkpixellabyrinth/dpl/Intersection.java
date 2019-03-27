@@ -17,7 +17,7 @@ public class Intersection implements Floor {
         this.intersectionPosition = intersectionPosition;
         this.pathLinked = pathLinked;
         this.directionsEnable = new HashSet<>();
-        getDirectionFromPathLinked();
+        setDirectionFromPathLinked();
     }
 
     public Intersection(Position intersectionPosition) {
@@ -26,14 +26,14 @@ public class Intersection implements Floor {
         this.directionsEnable = new HashSet<>();
     }
 
-    private void getDirectionFromPathLinked() {
+    private void setDirectionFromPathLinked() {
         for (PathBranch path : this.pathLinked) {
             switch (path.getDirection()) {
-                case UP:
+                case DOWN:
                     this.directionsEnable.add(Direction.DOWN);
                     this.pathBranchDown = path;
                     break;
-                case DOWN:
+                case UP:
                     this.directionsEnable.add(Direction.UP);
                     this.pathBranchUp = path;
                     break;
@@ -54,7 +54,7 @@ public class Intersection implements Floor {
 
     public void addLinkedPath(PathBranch linkedPath) {
         this.pathLinked.add(linkedPath);
-        this.getDirectionFromPathLinked();
+        this.setDirectionFromPathLinked();
     }
 
     public Position getIntersectionPosition() {
@@ -118,5 +118,13 @@ public class Intersection implements Floor {
     @Override
     public Position getEndPosition() {
         return this.intersectionPosition;
+    }
+
+    @Override
+    public String toString() {
+        return "Intersection{" +
+                "intersectionPosition=" + intersectionPosition +
+                ", directionsEnable=" + directionsEnable +
+                '}';
     }
 }

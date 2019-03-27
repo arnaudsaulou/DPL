@@ -37,7 +37,6 @@ public class Level {
 
     public void setStartPathBranch(PathBranch startPathBranch) {
         this.startPathBranch = startPathBranch;
-        System.out.println(startPathBranch.getEndIntersection().getStartPosition());
     }
 
     @Override

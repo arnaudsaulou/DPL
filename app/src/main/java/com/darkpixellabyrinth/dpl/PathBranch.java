@@ -21,7 +21,6 @@ public class PathBranch implements Floor {
     public PathBranch(Context context, int lenght, Position startPosition, Direction direction) {
         this.lenght = lenght;
         this.startPosition = startPosition;
-        System.out.println(direction);
         this.direction = direction;
         this.context = context;
         this.directionsEnable = new HashSet<>();
@@ -59,7 +58,7 @@ public class PathBranch implements Floor {
                 break;
             case RIGHT:
                 this.positionStartIntersection = new Position(this.context, this.startPosition.getX() - 1, this.startPosition.getY());
-                this.positionEndIntersection = new Position(this.context, this.endPosition.getX() + 1, this.endPosition.getY());
+                this.positionEndIntersection = new Position(this.context, this.endPosition.getX(), this.endPosition.getY());
                 break;
             case UP:
                 this.positionStartIntersection = new Position(this.context, this.startPosition.getX(), this.startPosition.getY() + 1);
@@ -136,5 +135,13 @@ public class PathBranch implements Floor {
     @Override
     public HashSet<Direction> getDirectionEnable() {
         return this.directionsEnable;
+    }
+
+    @Override
+    public String toString() {
+        return "PathBranch{" +
+                "startPosition=" + startPosition +
+                ", directionsEnable=" + directionsEnable +
+                '}';
     }
 }

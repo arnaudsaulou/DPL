@@ -112,7 +112,7 @@ public class GameBoard extends View {
 
     //Check if character has change of floor (path or intersection)//
 
-    private void checkCurrentFloor() {
+    private void checkCurrentFloor(Direction direction) {
         if (this.pixelCharacter.getCurrentFloor() instanceof PathBranch) {
             if (endIntersectionExist() && characterOnEndIntersection()) {
                 changeCurrentFloor(this.pixelCharacter.getCurrentPathBranch().getEndIntersection());
@@ -121,11 +121,34 @@ public class GameBoard extends View {
                 changeCurrentFloor(this.pixelCharacter.getCurrentPathBranch().getStartIntersection());
             }
         } else {
-            if(this.pixelCharacter.getCurrentPathBranch().getEndIntersection() != null) {
-                changeCurrentFloor(this.pixelCharacter.getCurrentPathBranch().getEndIntersection().getPathBranchRight());
-            } else {
-                changeCurrentFloor(this.pixelCharacter.getCurrentPathBranch().getStartIntersection().getPathBranchDown());
+            Intersection intersection = null;
+
+            if (endIntersectionExist() && (direction == Direction.RIGHT || direction == Direction.UP)) {
+                intersection = this.pixelCharacter.getCurrentPathBranch().getEndIntersection();
+            } else if (startIntersectionExist() && (direction == Direction.LEFT || direction == Direction.DOWN)) {
+                intersection = this.pixelCharacter.getCurrentPathBranch().getStartIntersection();
             }
+
+            System.out.println(intersection);
+
+
+            switch (direction) {
+                case UP:
+                    changeCurrentFloor(intersection.getPathBranchUp());
+                    break;
+                case RIGHT:
+                    changeCurrentFloor(intersection.getPathBranchRight());
+                    break;
+                case DOWN:
+                    changeCurrentFloor(intersection.getPathBranchDown());
+                    break;
+                case LEFT:
+                    changeCurrentFloor(intersection.getPathBranchLeft());
+                    break;
+                default:
+                    throw new IllegalStateException("Invalid direction");
+            }
+
         }
     }
 
@@ -135,7 +158,6 @@ public class GameBoard extends View {
             this.pixelCharacter.setCurrentPathBranch(p);
         }
         this.pixelCharacter.setCurrentFloor(newFloor);
-
     }
 
     private boolean characterOnStartIntersection() {
@@ -216,7 +238,7 @@ public class GameBoard extends View {
         if (canMoveUp()) {
             this.pixelCharacter.moveUp();
             this.drawFloor.moveUP();
-            this.checkCurrentFloor();
+            this.checkCurrentFloor(Direction.UP);
         }
     }
 
@@ -224,15 +246,16 @@ public class GameBoard extends View {
         if (canMoveDown()) {
             this.pixelCharacter.moveDown();
             this.drawFloor.moveDown();
-            this.checkCurrentFloor();
+            this.checkCurrentFloor(Direction.DOWN);
         }
     }
 
     public void goRigth() {
         if (canMoveRight()) {
+            System.out.println((this.pixelCharacter.getCurrentFloor()));
             this.pixelCharacter.moveRight();
             this.drawFloor.moveRight();
-            this.checkCurrentFloor();
+            this.checkCurrentFloor(Direction.RIGHT);
         }
     }
 
@@ -240,7 +263,7 @@ public class GameBoard extends View {
         if (canMoveLeft()) {
             this.pixelCharacter.moveLeft();
             this.drawFloor.moveLeft();
-            this.checkCurrentFloor();
+            this.checkCurrentFloor(Direction.LEFT);
         }
     }
 }
