@@ -11,8 +11,12 @@ public class PathBranch implements Floor {
     private int lenght;
     private Position startPosition;
     private Position endPosition;
+    private Position positionStartIntersection;
+    private Position positionEndIntersection;
     private Direction direction;
     private HashSet<Direction> directionsEnable;
+    private Intersection startIntersection;
+    private Intersection endIntersection;
 
     public PathBranch(Context context, int lenght, Position startPosition, Direction direction) {
         this.lenght = lenght;
@@ -20,26 +24,50 @@ public class PathBranch implements Floor {
         System.out.println(direction);
         this.direction = direction;
         this.context = context;
-
-        computeEndPosition(lenght, startPosition);
-
         this.directionsEnable = new HashSet<>();
+        this.startIntersection = null;
+        this.endIntersection = null;
         this.enableDiretion();
+        this.computeEndPosition();
+        this.computeIntersectionPoint();
     }
 
-    private void computeEndPosition(int lenght, Position startPosition) {
+    private void computeEndPosition() {
         switch (this.direction) {
             case LEFT:
-                this.endPosition = new Position(this.context, startPosition.getX() - lenght, startPosition.getY());
+                this.endPosition = new Position(this.context, this.startPosition.getX() - this.lenght, this.startPosition.getY());
                 break;
             case RIGHT:
-                this.endPosition = new Position(this.context, startPosition.getX() + lenght, startPosition.getY());
+                this.endPosition = new Position(this.context, this.startPosition.getX() + this.lenght, this.startPosition.getY());
                 break;
             case UP:
-                this.endPosition = new Position(this.context, startPosition.getX(), startPosition.getY() - lenght);
+                this.endPosition = new Position(this.context, this.startPosition.getX(), this.startPosition.getY() - this.lenght);
                 break;
             case DOWN:
-                this.endPosition = new Position(this.context, startPosition.getX(), startPosition.getY() + lenght);
+                this.endPosition = new Position(this.context, this.startPosition.getX(), this.startPosition.getY() + this.lenght);
+                break;
+            default:
+                throw new InvalidParameterException("Invalid direction");
+        }
+    }
+
+    private void computeIntersectionPoint() {
+        switch (this.direction) {
+            case LEFT:
+                this.positionStartIntersection = new Position(this.context, this.startPosition.getX() + 1, this.startPosition.getY());
+                this.positionEndIntersection = new Position(this.context, this.endPosition.getX() - 1, this.endPosition.getY());
+                break;
+            case RIGHT:
+                this.positionStartIntersection = new Position(this.context, this.startPosition.getX() - 1, this.startPosition.getY());
+                this.positionEndIntersection = new Position(this.context, this.endPosition.getX() + 1, this.endPosition.getY());
+                break;
+            case UP:
+                this.positionStartIntersection = new Position(this.context, this.startPosition.getX(), this.startPosition.getY() + 1);
+                this.positionEndIntersection = new Position(this.context, this.endPosition.getX(), this.endPosition.getY());
+                break;
+            case DOWN:
+                this.positionStartIntersection = new Position(this.context, this.startPosition.getX(), this.startPosition.getY() - 1);
+                this.positionEndIntersection = new Position(this.context, this.endPosition.getX(), this.endPosition.getY() + 1);
                 break;
             default:
                 throw new InvalidParameterException("Invalid direction");
@@ -47,7 +75,6 @@ public class PathBranch implements Floor {
     }
 
     private void enableDiretion() {
-        this.directionsEnable.clear();
         if (this.direction == Direction.DOWN || this.direction == Direction.UP) {
             this.directionsEnable.add(Direction.DOWN);
             this.directionsEnable.add(Direction.UP);
@@ -79,6 +106,14 @@ public class PathBranch implements Floor {
         return endPosition;
     }
 
+    public Intersection getStartIntersection() {
+        return this.startIntersection;
+    }
+
+    public Intersection getEndIntersection() {
+        return this.endIntersection;
+    }
+
     public void setEndPosition(Position endPosition) {
         this.endPosition = endPosition;
     }
@@ -87,9 +122,15 @@ public class PathBranch implements Floor {
         return direction;
     }
 
-    public void setDirection(Direction direction) {
-        this.direction = direction;
-        this.enableDiretion();
+    public void addIntersection(Intersection intersection) {
+        if (intersection.getStartPosition().equals(this.positionStartIntersection)) {
+            this.startIntersection = intersection;
+        } else if (intersection.getEndPosition().equals(this.positionEndIntersection)) {
+            this.endIntersection = intersection;
+        } else {
+            throw new IllegalStateException("Invalid Intersection");
+        }
+
     }
 
     @Override

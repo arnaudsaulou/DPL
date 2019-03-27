@@ -15,7 +15,8 @@ class PixelCharacter extends View {
     private Position position;
     private Paint paint;
     private Rect character;
-    private Floor actualFloor;
+    private Floor currentFloor;
+    private PathBranch currentPathBranch;
 
     public PixelCharacter(Context context) {
         super(context);
@@ -60,12 +61,20 @@ class PixelCharacter extends View {
         this.setPosition(new Position(this.context, this.getPosition().getX() - 1, this.getPosition().getY()));
     }
 
-    public Floor getActualFloor() {
-        return actualFloor;
+    public Floor getCurrentFloor() {
+        return currentFloor;
     }
 
-    public void setActualFloor(Floor actualFloor) {
-        this.actualFloor = actualFloor;
+    public void setCurrentFloor(Floor currentFloor) {
+        this.currentFloor = currentFloor;
+    }
+
+    public PathBranch getCurrentPathBranch() {
+        return this.currentPathBranch;
+    }
+
+    public void setCurrentPathBranch(PathBranch currentPathBranch) {
+        this.currentPathBranch = currentPathBranch;
     }
 
     @Override

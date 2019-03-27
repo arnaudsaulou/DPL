@@ -5,9 +5,11 @@ import java.util.ArrayList;
 public class Level {
 
     private ArrayList<PathBranch> pathBranches;
+    private ArrayList<Intersection> intersections;
     private PathBranch startPathBranch;
 
-    public Level() {}
+    public Level() {
+    }
 
     public Level(ArrayList<PathBranch> pathBranches) {
         this.pathBranches = pathBranches;
@@ -25,8 +27,17 @@ public class Level {
         return startPathBranch;
     }
 
+    public ArrayList<Intersection> getIntersections() {
+        return intersections;
+    }
+
+    public void setIntersections(ArrayList<Intersection> intersections) {
+        this.intersections = intersections;
+    }
+
     public void setStartPathBranch(PathBranch startPathBranch) {
         this.startPathBranch = startPathBranch;
+        System.out.println(startPathBranch.getEndIntersection().getStartPosition());
     }
 
     @Override

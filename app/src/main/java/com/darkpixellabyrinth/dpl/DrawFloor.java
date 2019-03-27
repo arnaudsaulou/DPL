@@ -11,13 +11,13 @@ import java.util.ArrayList;
 
 import static com.darkpixellabyrinth.dpl.Constants.USER_DATA;
 
-class DrawPaths extends View {
+class DrawFloor extends View {
 
     private Paint paint;
     private ArrayList<Rect> pathView = new ArrayList<>();
     private int boxSize;
 
-    public DrawPaths(Context context, Level level) {
+    public DrawFloor(Context context, Level level) {
         super(context);
 
         SharedPreferences sharedPreferences = context.getSharedPreferences(USER_DATA, Context.MODE_PRIVATE);
@@ -30,19 +30,25 @@ class DrawPaths extends View {
 
                 switch (pathBranch.getDirection()) {
                     case LEFT:
-                        createPathLeft(pathBranch.getLenght(), pathBranch.getStartPosition());
+                        createViewPathLeft(pathBranch.getLenght(), pathBranch.getStartPosition());
                         break;
                     case UP:
-                        createPathUp(pathBranch.getLenght(), pathBranch.getStartPosition());
+                        createViewPathUp(pathBranch.getLenght(), pathBranch.getStartPosition());
                         break;
                     case RIGHT:
-                        createPathRight(pathBranch.getLenght(), pathBranch.getStartPosition());
+                        createViewPathRight(pathBranch.getLenght(), pathBranch.getStartPosition());
                         break;
                     case DOWN:
-                        createPathDown(pathBranch.getLenght(), pathBranch.getStartPosition());
+                        createViewPathDown(pathBranch.getLenght(), pathBranch.getStartPosition());
                         break;
                     default:
                         break;
+                }
+            }
+
+            if (level.getIntersections() != null) {
+                for (Intersection intersection : level.getIntersections()) {
+                    createViewIntersection(intersection.getStartPosition());
                 }
             }
         }
@@ -78,7 +84,7 @@ class DrawPaths extends View {
     }
 
 
-    private void createPathUp(int length, Position start) {
+    private void createViewPathUp(int length, Position start) {
         this.pathView.add(new Rect(
                 start.getxScreen(),
                 start.getyScreen() - length * this.boxSize,
@@ -86,7 +92,7 @@ class DrawPaths extends View {
                 start.getyScreen()));
     }
 
-    private void createPathDown(int length, Position start) {
+    private void createViewPathDown(int length, Position start) {
         this.pathView.add(new Rect(
                 start.getxScreen(),
                 start.getyScreen() - this.boxSize,
@@ -94,7 +100,7 @@ class DrawPaths extends View {
                 start.getyScreen() + (length - 1) * this.boxSize));
     }
 
-    private void createPathRight(int length, Position start) {
+    private void createViewPathRight(int length, Position start) {
         this.pathView.add(new Rect(
                 start.getxScreen(),
                 start.getyScreen() - this.boxSize,
@@ -102,12 +108,20 @@ class DrawPaths extends View {
                 start.getyScreen()));
     }
 
-    private void createPathLeft(int length, Position start) {
+    private void createViewPathLeft(int length, Position start) {
         this.pathView.add(new Rect(
                 start.getxScreen() - (length - 1) * this.boxSize,
                 start.getyScreen() - this.boxSize,
                 start.getxScreen() + this.boxSize,
                 start.getyScreen()));
+    }
+
+    private void createViewIntersection(Position position) {
+        this.pathView.add(new Rect(
+                position.getxScreen(),
+                position.getyScreen() - this.boxSize,
+                position.getxScreen() + this.boxSize,
+                position.getyScreen()));
     }
 
     @Override
