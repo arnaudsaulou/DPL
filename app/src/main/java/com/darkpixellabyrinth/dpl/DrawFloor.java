@@ -30,16 +30,16 @@ class DrawFloor extends View {
 
                 switch (pathBranch.getDirection()) {
                     case LEFT:
-                        createViewPathLeft(pathBranch.getLenght(), pathBranch.getStartPosition());
+                        createViewPathLeft(pathBranch.getLength(), pathBranch.getStartPosition());
                         break;
                     case UP:
-                        createViewPathUp(pathBranch.getLenght(), pathBranch.getStartPosition());
+                        createViewPathUp(pathBranch.getLength(), pathBranch.getStartPosition());
                         break;
                     case RIGHT:
-                        createViewPathRight(pathBranch.getLenght(), pathBranch.getStartPosition());
+                        createViewPathRight(pathBranch.getLength(), pathBranch.getStartPosition());
                         break;
                     case DOWN:
-                        createViewPathDown(pathBranch.getLenght(), pathBranch.getStartPosition());
+                        createViewPathDown(pathBranch.getLength(), pathBranch.getStartPosition());
                         break;
                     default:
                         break;

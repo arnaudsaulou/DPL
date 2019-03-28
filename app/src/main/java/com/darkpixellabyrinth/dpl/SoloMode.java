@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ImageView;
 
-import com.darkpixellabyrinth.dpl.Levels.Level1;
+import com.darkpixellabyrinth.dpl.Levels.MapReader;
 
 public class SoloMode extends AppCompatActivity {
 
@@ -21,7 +21,9 @@ public class SoloMode extends AppCompatActivity {
 
         getViews();
 
-        gameBoard = new GameBoard(this, new Level1(getApplicationContext()));
+        new MapReader(getApplicationContext());
+
+        /*gameBoard = new GameBoard(this, new MapReader(getApplicationContext()));
 
         gameBoardView.addView(gameBoard);
 
@@ -60,7 +62,7 @@ public class SoloMode extends AppCompatActivity {
                 gameBoardView.addView(gameBoard);
             }
         });
-
+*/
     }
 
     private void getViews() {

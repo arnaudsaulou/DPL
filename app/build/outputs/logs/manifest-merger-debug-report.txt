@@ -1,118 +1,118 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:2:1-27:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b246c4c63bf054ec3beed9f721075e9c\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3bbd656c63156caeb4342cb62c068786\AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\5a1954888d84b123bdcf82595a281ced\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b0501bd3ed092548d8638a144457c4dc\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8894fbdaaf80d70929d7b9424274e200\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e55e348dd4d8b4b71e2189f51929871e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\51d68d0c828a3e0831be678814123b10\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d51a400273a3ba0477d2af59061514b3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\73a7c5f3cb1a2e09cf9b587c9bbbc7e1\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ece7fdd2b087a724c256e6193d0d4da0\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2b9f01fa9f8bfdc27f02383e9a8e1fd9\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e3839f94fec0a13bce831fe082fb6837\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a5a52cffb3677a3ca553c2138fd1d682\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:2:1-27:12
-INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:2:1-27:12
+ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\9d216d723bffbf6b52a6249a249dc406\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9239bb920b775ae631cc1b5423846a46\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\41dbc942678c3f8618727f412daebade\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\672fa8575173838941b354434c53499b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c6c1a4d156e9fb1cbdc6e1efc040765e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2c34c9f438075873b5ecd0a971c64025\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\709e38b7ad414479cfd292072fce5ea8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9de80aa39e190f2f07853aecdce00691\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\92c68ea93f3726c32358a077d09f3b7c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9700285678bf1d30b828b06b3f864d6b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4de5faca0ae435374b1a00bd4538d78d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\61b5030fd41d7e379a9166da42f75e88\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6c0045b5394339da4646b9c4a13b069c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:2:1-27:12
 	package
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:3:5-41
-		INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:2:1-27:12
-		INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:2:1-27:12
-		INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:5:5-25:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3bbd656c63156caeb4342cb62c068786\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3bbd656c63156caeb4342cb62c068786\AndroidManifest.xml:9:5-20
+ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9239bb920b775ae631cc1b5423846a46\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9239bb920b775ae631cc1b5423846a46\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:11:9-76
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:11:9-76
 activity#com.darkpixellabyrinth.dpl.Options
-ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:12:9-54
+ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:12:9-54
 	android:name
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:12:19-42
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:12:19-42
 activity#com.darkpixellabyrinth.dpl.SoloMode
-ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:13:9-15:52
+ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:13:9-15:52
 	android:screenOrientation
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:15:13-49
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:15:13-49
 	android:name
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:14:13-37
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:14:13-37
 activity#com.darkpixellabyrinth.dpl.StartMenu
-ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:16:9-24:20
+ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:16:9-24:20
 	android:screenOrientation
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:18:13-49
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:18:13-49
 	android:name
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:17:13-38
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:17:13-38
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:19:13-23:29
+ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:19:13-23:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:20:17-69
+ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:20:25-66
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:22:17-77
+ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:22:17-77
 	android:name
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml:22:27-74
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml:22:27-74
 uses-sdk
-INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b246c4c63bf054ec3beed9f721075e9c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b246c4c63bf054ec3beed9f721075e9c\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3bbd656c63156caeb4342cb62c068786\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\3bbd656c63156caeb4342cb62c068786\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\5a1954888d84b123bdcf82595a281ced\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\5a1954888d84b123bdcf82595a281ced\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b0501bd3ed092548d8638a144457c4dc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b0501bd3ed092548d8638a144457c4dc\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8894fbdaaf80d70929d7b9424274e200\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\8894fbdaaf80d70929d7b9424274e200\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e55e348dd4d8b4b71e2189f51929871e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e55e348dd4d8b4b71e2189f51929871e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\51d68d0c828a3e0831be678814123b10\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\51d68d0c828a3e0831be678814123b10\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d51a400273a3ba0477d2af59061514b3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\d51a400273a3ba0477d2af59061514b3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\73a7c5f3cb1a2e09cf9b587c9bbbc7e1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\73a7c5f3cb1a2e09cf9b587c9bbbc7e1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ece7fdd2b087a724c256e6193d0d4da0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ece7fdd2b087a724c256e6193d0d4da0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2b9f01fa9f8bfdc27f02383e9a8e1fd9\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2b9f01fa9f8bfdc27f02383e9a8e1fd9\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e3839f94fec0a13bce831fe082fb6837\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e3839f94fec0a13bce831fe082fb6837\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a5a52cffb3677a3ca553c2138fd1d682\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Arnaud\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a5a52cffb3677a3ca553c2138fd1d682\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\9d216d723bffbf6b52a6249a249dc406\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\9d216d723bffbf6b52a6249a249dc406\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9239bb920b775ae631cc1b5423846a46\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\9239bb920b775ae631cc1b5423846a46\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\41dbc942678c3f8618727f412daebade\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\41dbc942678c3f8618727f412daebade\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\672fa8575173838941b354434c53499b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\672fa8575173838941b354434c53499b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c6c1a4d156e9fb1cbdc6e1efc040765e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c6c1a4d156e9fb1cbdc6e1efc040765e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2c34c9f438075873b5ecd0a971c64025\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2c34c9f438075873b5ecd0a971c64025\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\709e38b7ad414479cfd292072fce5ea8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\709e38b7ad414479cfd292072fce5ea8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9de80aa39e190f2f07853aecdce00691\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\9de80aa39e190f2f07853aecdce00691\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\92c68ea93f3726c32358a077d09f3b7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\92c68ea93f3726c32358a077d09f3b7c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9700285678bf1d30b828b06b3f864d6b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\9700285678bf1d30b828b06b3f864d6b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4de5faca0ae435374b1a00bd4538d78d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4de5faca0ae435374b1a00bd4538d78d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\61b5030fd41d7e379a9166da42f75e88\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\61b5030fd41d7e379a9166da42f75e88\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6c0045b5394339da4646b9c4a13b069c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\draft\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6c0045b5394339da4646b9c4a13b069c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Arnaud\Documents\Cours\2A\Android\DPL\DPL - DarkPixelLabyrinth\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\draft\AndroidStudioProjects\DPL\app\src\main\AndroidManifest.xml
