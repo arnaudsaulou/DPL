@@ -58,7 +58,6 @@ public class StartMenu extends AppCompatActivity {
         editor.apply();
     }
 
-
     private void setOnClick() {
         this.options.setOnClickListener(new View.OnClickListener() {
             @Override

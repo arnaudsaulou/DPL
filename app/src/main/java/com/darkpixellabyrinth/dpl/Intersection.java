@@ -13,13 +13,6 @@ public class Intersection implements Floor {
     private PathBranch pathBranchDown;
     private PathBranch pathBranchLeft;
 
-    public Intersection(Position intersectionPosition, ArrayList<PathBranch> pathLinked) {
-        this.intersectionPosition = intersectionPosition;
-        this.pathLinked = pathLinked;
-        this.directionsEnable = new HashSet<>();
-        setDirectionFromPathLinked();
-    }
-
     public Intersection(Position intersectionPosition) {
         this.intersectionPosition = intersectionPosition;
         this.pathLinked = new ArrayList<>();
@@ -49,6 +42,29 @@ public class Intersection implements Floor {
                     throw new IllegalStateException("Invalid direction");
             }
 
+        }
+    }
+
+    public void addComplementarDirecetion(Direction direction) {
+        switch (direction) {
+            case UP:
+                this.directionsEnable.add(Direction.UP);
+                this.pathBranchUp = this.pathBranchDown;
+                break;
+            case RIGHT:
+                this.directionsEnable.add(Direction.RIGHT);
+                this.pathBranchRight = this.pathBranchLeft;
+                break;
+            case DOWN:
+                this.directionsEnable.add(Direction.DOWN);
+                this.pathBranchDown = this.pathBranchUp;
+                break;
+            case LEFT:
+                this.directionsEnable.add(Direction.LEFT);
+                this.pathBranchLeft = this.pathBranchRight;
+                break;
+            default:
+                throw new IllegalStateException("Invalid direction");
         }
     }
 

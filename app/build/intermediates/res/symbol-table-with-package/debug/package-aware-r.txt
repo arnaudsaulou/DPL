@@ -698,6 +698,7 @@ id center
 id center_horizontal
 id center_vertical
 id chains
+id checkBox
 id checkbox
 id chronometer
 id clip_horizontal
@@ -760,6 +761,7 @@ id percent
 id progress_circular
 id progress_horizontal
 id radio
+id retour
 id right
 id right_icon
 id right_side
@@ -801,6 +803,7 @@ id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textView
+id text_musique
 id time
 id title
 id titleDividerNoCustom
@@ -862,6 +865,7 @@ layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
+raw test
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -892,8 +896,10 @@ string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
+string back
 string heartDescription
 string multi
+string musique
 string options
 string search_menu_title
 string solo

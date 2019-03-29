@@ -61,6 +61,7 @@ public class MapReader extends Level {
         }
 
         this.setPathBranches(pathBranches);
+
     }
 
 
@@ -79,7 +80,7 @@ public class MapReader extends Level {
         switch (direction) {
             case UP:
                 while (endPathNotFound) {
-                    if (this.map[y - pathLength][x] != 2 && this.map[y + pathLength][x] != 2) {
+                    if (this.map[y - pathLength][x] != 2) {
                         pathLength++;
                     } else {
                         endPathNotFound = false;
@@ -89,7 +90,7 @@ public class MapReader extends Level {
                 break;
             case RIGHT:
                 while (endPathNotFound) {
-                    if (this.map[y][x + pathLength] != 2 && this.map[y][x - pathLength] != 2) {
+                    if (this.map[y][x + pathLength] != 2) {
                         pathLength++;
                     } else {
                         endPathNotFound = false;
@@ -98,6 +99,8 @@ public class MapReader extends Level {
                 x = x + pathLength;
                 break;
         }
+
+        System.out.println("pathLength : " + pathLength);
 
         return new Position(this.context, x, y);
     }
@@ -182,6 +185,7 @@ public class MapReader extends Level {
                 currentIntersection.addLinkedPath(secondPathBranch);
                 currentPathBranch.addIntersection(currentIntersection);
                 secondPathBranch.addIntersection(currentIntersection);
+                currentIntersection.addComplementarDirecetion(currentPathBranch.getDirection());
             } else {
                 if (isTheStartPathBranch(nextCaseValue)) {
                     this.setMapPosition(new Position(context, x, y));
@@ -315,6 +319,14 @@ public class MapReader extends Level {
      */
     private Direction checkDirection(int x, int y) {
         Direction direction;
+
+        System.out.println("X : " + x);
+        System.out.println("Y : " + y);
+        System.out.println("this.map[y][x] : " + this.map[y][x]);
+        System.out.println("this.map[y][x + 1] : " + this.map[y][x + 1]);
+        System.out.println("this.map[y][x - 1]: " + this.map[y][x - 1]);
+        System.out.println("this.map[y + 1][x] : " + this.map[y + 1][x]);
+        System.out.println("this.map[y - 1][x] : " + this.map[y - 1][x]);
 
         if (this.map[y][x + 1] != 0) {
             direction = RIGHT;
