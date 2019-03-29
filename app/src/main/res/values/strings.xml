@@ -5,4 +5,6 @@
     <string name="multi">MULTI</string>
     <string name="options">OPTIONS</string>
     <string name="heartDescription">Logo coeur</string>
+    <string name="back">BACK</string>
+    <string name="musique">MUSIC</string>
 </resources>

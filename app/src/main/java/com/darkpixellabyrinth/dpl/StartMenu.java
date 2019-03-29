@@ -63,7 +63,8 @@ public class StartMenu extends AppCompatActivity {
         this.options.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-
+		Intent intent = new Intent(StartMenu.this, Options.class);
+                startActivity(intent);
             }
         });
 

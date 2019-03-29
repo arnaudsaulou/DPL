@@ -7,12 +7,14 @@ import static com.darkpixellabyrinth.dpl.Constants.USER_DATA;
 
 public class Position {
 
+    private Context context;
     private int x;
     private int y;
     private int xScreen;
     private int yScreen;
 
     public Position(Context context, int x, int y) {
+        this.context = context;
         this.x = x;
         this.y = y;
         SharedPreferences sharedPreferences = context.getSharedPreferences(USER_DATA, Context.MODE_PRIVATE);
@@ -52,6 +54,23 @@ public class Position {
     public void setyScreen(int yScreen) {
         this.yScreen = yScreen;
     }
+
+    public Position positionAbove() {
+        return new Position(this.context, this.x, this.y + 1);
+    }
+
+    public Position positionUnder() {
+        return new Position(this.context, this.x, this.y - 1);
+    }
+
+    public Position positionAtRight() {
+        return new Position(this.context, this.x + 1, this.y);
+    }
+
+    public Position positionAtLeft() {
+        return new Position(this.context, this.x - 1, this.y);
+    }
+
 
     @Override
     public boolean equals(Object o) {

@@ -13,6 +13,7 @@ import java.util.ArrayList;
 public class Level1 extends Level {
 
     public Level1(Context context) {
+        super(context);
         ArrayList<PathBranch> pathBranches = new ArrayList<>();
         ArrayList<Intersection> intersections = new ArrayList<>();
 
@@ -41,7 +42,6 @@ public class Level1 extends Level {
         pathBranches.add(p3);
 
         this.setPathBranches(pathBranches);
-        this.setIntersections(intersections);
         this.setStartPathBranch(p1);
     }
 }

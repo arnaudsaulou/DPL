@@ -30,19 +30,19 @@ public class Intersection implements Floor {
         for (PathBranch path : this.pathLinked) {
             switch (path.getDirection()) {
                 case DOWN:
-                    this.directionsEnable.add(Direction.DOWN);
+                    this.directionsEnable.add(Direction.UP);
                     this.pathBranchDown = path;
                     break;
                 case UP:
-                    this.directionsEnable.add(Direction.UP);
+                    this.directionsEnable.add(Direction.DOWN);
                     this.pathBranchUp = path;
                     break;
                 case LEFT:
-                    this.directionsEnable.add(Direction.LEFT);
+                    this.directionsEnable.add(Direction.RIGHT);
                     this.pathBranchLeft = path;
                     break;
                 case RIGHT:
-                    this.directionsEnable.add(Direction.RIGHT);
+                    this.directionsEnable.add(Direction.LEFT);
                     this.pathBranchRight = path;
                     break;
                 default:

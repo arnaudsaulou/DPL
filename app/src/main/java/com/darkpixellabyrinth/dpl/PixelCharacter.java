@@ -32,9 +32,9 @@ class PixelCharacter extends View {
 
         this.character = new Rect(
                 position.getxScreen(),
-                position.getyScreen() - + sharedPreferences.getInt("boxSize", 0),
+                position.getyScreen() - +sharedPreferences.getInt("boxSize", 0),
                 position.getxScreen() + sharedPreferences.getInt("boxSize", 0),
-                position.getyScreen() );
+                position.getyScreen());
     }
 
     public Position getPosition() {
@@ -75,7 +75,28 @@ class PixelCharacter extends View {
 
     public void setCurrentPathBranch(PathBranch currentPathBranch) {
         this.currentPathBranch = currentPathBranch;
+        this.setCurrentFloor(currentPathBranch);
     }
+
+    public void updateCurrentFloor(Direction direction) {
+        if (this.getCurrentFloor() instanceof PathBranch) {
+            for (Intersection intersection : this.getCurrentPathBranch().getSetOfIntersections()) {
+                if (intersection.getStartPosition().equals(this.getPosition())) {
+                    this.setCurrentFloor(intersection);
+                }
+            }
+        } else {
+            Intersection intersection = (Intersection) this.getCurrentFloor();
+            for (PathBranch pathBranch : intersection.getPathLinked()) {
+
+                if (pathBranch.onThePath(intersection.getStartPosition()) && (pathBranch.getDirectionEnable().contains(direction))) {
+                    this.setCurrentPathBranch(pathBranch);
+                }
+
+            }
+        }
+    }
+
 
     @Override
     protected void onDraw(Canvas canvas) {

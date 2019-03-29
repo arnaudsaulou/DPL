@@ -21,9 +21,9 @@ public class SoloMode extends AppCompatActivity {
 
         getViews();
 
-        new MapReader(getApplicationContext());
+        MapReader mp = new MapReader(getApplicationContext());
 
-        /*gameBoard = new GameBoard(this, new MapReader(getApplicationContext()));
+        gameBoard = new GameBoard(this, mp);
 
         gameBoardView.addView(gameBoard);
 
@@ -62,7 +62,7 @@ public class SoloMode extends AppCompatActivity {
                 gameBoardView.addView(gameBoard);
             }
         });
-*/
+
     }
 
     private void getViews() {
